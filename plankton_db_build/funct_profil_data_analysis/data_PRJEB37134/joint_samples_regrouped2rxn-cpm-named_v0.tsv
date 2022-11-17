@@ -1,0 +1,24 @@
+# Gene Family	ERR3980584_Qual_Filt_Abundance-CPM	ERR3980585_Qual_Filt_Abundance-CPM	ERR3980586_Qual_Filt_Abundance-CPM	ERR3980587_Qual_Filt_Abundance-CPM	ERR3980588_Qual_Filt_Abundance-CPM	ERR3980589_Qual_Filt_Abundance-CPM	ERR3980590_Qual_Filt_Abundance-CPM	ERR3980591_Qual_Filt_Abundance-CPM	ERR3980592_Qual_Filt_Abundance-CPM	ERR3980593_Qual_Filt_Abundance-CPM	ERR3980594_Qual_Filt_Abundance-CPM	ERR3980595_Qual_Filt_Abundance-CPM
+UNMAPPED	1000000.0	1000000.0	999322.0	1000000.0	1000000.0	1000000.0	1000000.0	1000000.0	1000000.0	1000000.0	1000000.0	1000000.0
+UNGROUPED	0.0	0.0	674.642652	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+UNGROUPED|g__Cutibacterium.s__Cutibacterium_acnes	0.0	0.0	277.33399699999995	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+UNGROUPED|g__Moraxella.s__Moraxella_osloensis	0.0	0.0	282.11462100000006	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+UNGROUPED|g__Streptococcus.s__Streptococcus_mitis	0.0	0.0	115.19403399999999	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+CYSPH-RXN: (expasy) Cystathionine gamma-synthase [2.5.1.48]	0.0	0.0	1.31489	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+CYSPH-RXN: (expasy) Cystathionine gamma-synthase [2.5.1.48]|g__Streptococcus.s__Streptococcus_mitis	0.0	0.0	1.31489	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+DNA-DIRECTED-DNA-POLYMERASE-RXN: (expasy) DNA-directed DNA polymerase [2.7.7.7]	0.0	0.0	0.653092	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+DNA-DIRECTED-DNA-POLYMERASE-RXN: (expasy) DNA-directed DNA polymerase [2.7.7.7]|g__Streptococcus.s__Streptococcus_mitis	0.0	0.0	0.653092	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+GLUTAMIDOTRANS-RXN: (expasy) Imidazole glycerol-phosphate synthase [4.3.2.10]	0.0	0.0	0.492036	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+GLUTAMIDOTRANS-RXN: (expasy) Imidazole glycerol-phosphate synthase [4.3.2.10]|g__Moraxella.s__Moraxella_osloensis	0.0	0.0	0.492036	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+O-SUCCHOMOSERLYASE-RXN: (expasy) Cystathionine gamma-synthase [2.5.1.48]	0.0	0.0	1.31489	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+O-SUCCHOMOSERLYASE-RXN: (expasy) Cystathionine gamma-synthase [2.5.1.48]|g__Streptococcus.s__Streptococcus_mitis	0.0	0.0	1.31489	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+RXN-12613: (expasy) Aminopyrimidine aminohydrolase [3.5.99.2]	0.0	0.0	0.725124	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+RXN-12613: (expasy) Aminopyrimidine aminohydrolase [3.5.99.2]|g__Streptococcus.s__Streptococcus_mitis	0.0	0.0	0.725124	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+RXN-18602: (expasy) Cystathionine gamma-synthase [2.5.1.48]	0.0	0.0	1.31489	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+RXN-18602: (expasy) Cystathionine gamma-synthase [2.5.1.48]|g__Streptococcus.s__Streptococcus_mitis	0.0	0.0	1.31489	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+RXN-20927: (expasy) DNA-directed DNA polymerase [2.7.7.7]	0.0	0.0	0.653092	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+RXN-20927: (expasy) DNA-directed DNA polymerase [2.7.7.7]|g__Streptococcus.s__Streptococcus_mitis	0.0	0.0	0.653092	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+RXN-9384: (expasy) Cystathionine gamma-synthase [2.5.1.48]	0.0	0.0	1.31489	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+RXN-9384: (expasy) Cystathionine gamma-synthase [2.5.1.48]|g__Streptococcus.s__Streptococcus_mitis	0.0	0.0	1.31489	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+THIAMINASE-RXN: (expasy) Aminopyrimidine aminohydrolase [3.5.99.2]	0.0	0.0	0.725124	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+THIAMINASE-RXN: (expasy) Aminopyrimidine aminohydrolase [3.5.99.2]|g__Streptococcus.s__Streptococcus_mitis	0.0	0.0	0.725124	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
