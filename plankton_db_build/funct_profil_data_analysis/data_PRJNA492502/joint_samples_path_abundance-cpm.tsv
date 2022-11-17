@@ -1,0 +1,816 @@
+# Pathway	SRR8039428_Abundance-CPM	SRR8039449_Abundance-CPM	SRR8039450_Abundance-CPM	SRR8039451_Abundance-CPM	SRR8039454_Abundance-CPM	SRR8039455_Abundance-CPM	SRR8039456_Abundance-CPM	SRR8039457_Abundance-CPM	SRR8039468_Abundance-CPM	SRR8039469_Abundance-CPM	SRR8039470_Abundance-CPM	SRR8039471_Abundance-CPM	SRR8039472_Abundance-CPM	SRR8039473_Abundance-CPM
+UNMAPPED	814866	757550	758562	793667	823709	826229	810041	635493	825622	493454	816470	835605	808100	508181
+UNINTEGRATED	174674	228958	232080	198753	148657	163122	182999	341797	167274	503589	173474	151141	166654	487200
+UNINTEGRATED|g__Aequorivita.s__Aequorivita_sp._HC6-5__1156267	30438	17719.6	0	24476.6	55034.2	0	48492.7	57545.1	0	10584.2	27500.6	116290	145729	9833.5
+UNINTEGRATED|g__Alexandrium.s__Alexandrium_andersonii__327968	521.239	170.047	0	105.888	0	1097.57	0	0	0	0	0	0	0	190.298
+UNINTEGRATED|g__Alexandrium.s__Alexandrium_catenella__2925	19.142	78.6511	0	26.9415	385.028	96.6508	0	137.654	0	0	0	0	0	162.154
+UNINTEGRATED|g__Alexandrium.s__Alexandrium_margalefii__109239	92.3107	937.637	0	54.2862	155.021	267.391	20.9633	1612.61	78.3639	4.89764	0	0	0	80.8539
+UNINTEGRATED|g__Ammonia.s__Ammonia_sp.__43993	652.125	2631.41	0	922.826	13988.2	0	782.91	0	0	0	0	2074.45	0	392.21
+UNINTEGRATED|g__Amphidinium.s__Amphidinium_carterae__2961	7288.46	2494.15	8000.51	2275.5	28919.4	0	0	61797.2	0	916.616	5088.55	0	0	1090.12
+UNINTEGRATED|g__Amphidinium.s__Amphidinium_massartii__160604	12308	7358.35	26470.6	6926.24	2203.64	0	0	24051.9	0	918.004	14768.4	0	0	7202.69
+UNINTEGRATED|g__Amphiprora.s__Amphiprora_paludosa__265537	4143.74	3672.95	0	0	0	0	0	0	0	0	0	0	0	335.489
+UNINTEGRATED|g__Amphiprora.s__Amphiprora_sp.__2608610	0	53.0879	0	61.3806	557.367	0	0	210.312	0	21.3991	0	0	739.7	1.08488
+UNINTEGRATED|g__Amphora.s__Amphora_coffeiformis__265554	0	0	0	0	0	0	0	3937.27	0	0	0	0	0	336.47
+UNINTEGRATED|g__Apocalathium.s__Apocalathium_aciculiferum__268820	200.256	0	0	46.4273	0	0	189.435	0	97.4026	34.6513	0	495.614	0	201.11
+UNINTEGRATED|g__Aristerostoma.s__Aristerostoma_sp.__2710916	0	0	0	260.878	0	0	0	0	0	0	0	0	0	250.891
+UNINTEGRATED|g__Asterionella.s__Asterionella_formosa__210441	0	63.2938	0	2.90464	0	0	139.743	0	0	0	0	0	0	27.07
+UNINTEGRATED|g__Asterionellopsis.s__Asterionellopsis_glacialis__33640	0	1526.12	0	401.368	0	0	917.535	1311.52	0	0	0	0	0	341.817
+UNINTEGRATED|g__Astrosyne.s__Astrosyne_radiata__1158023	0	275.679	0	0	0	0	0	831.477	0	1137.71	0	0	0	25.9193
+UNINTEGRATED|g__Attheya.s__Attheya_septentrionalis__420275	0	359.393	0	218.639	0	0	473.059	0	0	0	0	0	0	125.591
+UNINTEGRATED|g__Aulacoseira.s__Aulacoseira_subarctica__202472	1632.05	5843.77	0	580.746	3253.75	0	0	6770.76	0	0	0	0	0	4098.94
+UNINTEGRATED|g__Azadinium.s__Azadinium_spinosum__632150	90.9349	85.0435	0	50.4218	150.385	254.664	0	185.873	42.3551	3.01328	0	30.5588	0	38.989
+UNINTEGRATED|g__Bathycoccus.s__Bathycoccus_prasinos__41875	114027	24463.3	0	87487.6	1.89205e+06	796013	165754	177998	519357	501931	226289	2.21898e+06	3.92605e+06	146412
+UNINTEGRATED|g__Bathycoccus.s__unclassified__41874	3305.91	42.0325	0	1409.97	116687	29863.7	3854.64	29426	12686.9	4026.87	5228.24	72176.5	67799.5	562.491
+UNINTEGRATED|g__Calcidiscus.s__Calcidiscus_leptoporus__127549	0	2219.98	0	1423.7	679.906	214.363	0	97.0676	4684.83	0	0	1052.01	16544.7	891.234
+UNINTEGRATED|g__Chaetoceros.s__Chaetoceros_cf._neogracilis__1048532	0	38.1092	0	0	0	0	0	0	0	0	0	0	0	32.5706
+UNINTEGRATED|g__Chaetoceros.s__Chaetoceros_debilis__122233	0	10.0275	0	0	56.6669	0	75.2282	720.786	0	0	0	0	0	21.4035
+UNINTEGRATED|g__Chaetoceros.s__Chaetoceros_dichaeta__420782	0	3836.95	0	1651.3	1298.64	0	472.978	11714.9	0	2510.06	0	0	2343.16	96.6669
+UNINTEGRATED|g__Chattonella.s__Chattonella_subsalsa__44440	537.343	879.858	0	232.289	609.97	0	0	1115.96	0	0	0	2924.13	3054.12	490.077
+UNINTEGRATED|g__Chlorarachnion.s__Chlorarachnion_reptans__29199	3541.16	2065.93	0	968.806	0	0	0	0	0	0	3026.88	13407.2	18028.9	0
+UNINTEGRATED|g__Chrysochromulina.s__Chrysochromulina_rotalis__412157	51145.8	377087	0	103108	0	0	113218	0	0	0	0	0	0	118207
+UNINTEGRATED|g__Chrysochromulina.s__Chrysochromulina_tobinii__1460289	0	1665.73	0	810.832	0	0	0	0	0	0	0	0	0	0
+UNINTEGRATED|g__Chrysoculter.s__Chrysoculter_rhomboideus__259385	0	1977.02	0	720.853	0	0	0	0	0	0	0	0	0	0
+UNINTEGRATED|g__Coremiostelium.s__Coremiostelium_polycephalum__142831	0	1119.92	0	0	0	0	0	0	0	0	4697.26	0	0	0
+UNINTEGRATED|g__Corethron.s__Corethron_hystrix__216773	13.268	28.1786	0	3.27467	16.28	0	21.3616	59.785	0	0	7.91015	0	28170.6	4.37066
+UNINTEGRATED|g__Coscinodiscus.s__Coscinodiscus_wailesii__671091	0	628.448	0	131.645	2205.36	0	0	1524.19	0	195.217	0	0	0	64.242
+UNINTEGRATED|g__Craspedostauros.s__Craspedostauros_australis__1486917	282.851	393.583	0	0	0	766.289	0	0	0	0	0	0	1326.43	0
+UNINTEGRATED|g__Crustomastix.s__Crustomastix_stigmatica__195967	1169.13	2190.13	0	2538.46	0	0	0	3035.75	0	0	0	0	0	4266.58
+UNINTEGRATED|g__Cryptomonas.s__Cryptomonas_curvata__233186	0	0	0	0	0	10780.7	0	0	0	0	0	0	0	2314.18
+UNINTEGRATED|g__Cylindrotheca.s__Cylindrotheca_closterium__2856	544.89	1057.58	50.0733	3.84202	692.626	17292.7	189.772	290.806	0	0	0	4271.77	2165.53	52.9175
+UNINTEGRATED|g__Dactyliosolen.s__Dactyliosolen_fragilissimus__1118495	0	777.381	0	122.344	0	0	144.709	266.91	0	0	0	0	0	456.475
+UNINTEGRATED|g__Detonula.s__Detonula_confervacea__83371	0	188.628	0	0	5786.89	0	0	45.0288	0	0	260.248	0	0	92.9006
+UNINTEGRATED|g__Dictyostelium.s__Dictyostelium_brefeldianum__361069	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+UNINTEGRATED|g__Durinskia.s__Durinskia_baltica__400756	760.339	869.391	1961.99	521.202	1463.5	1287.82	352.167	1463.96	788.682	45.8515	5266.19	5503.47	7809.45	542.055
+UNINTEGRATED|g__Emiliania.s__Emiliania_huxleyi__2903	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+UNINTEGRATED|g__Emiliania.s__unclassified__2902	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+UNINTEGRATED|g__Entomoneis.s__Entomoneis_sp.__186043	0	1202.13	0	81.5271	0	0	0	443.269	0	0	0	0	8419.63	12.2578
+UNINTEGRATED|g__Epipyxis.s__Epipyxis_sp._PR26KG__1825121	0	108770	0	28136.8	8404.85	0	0	81911	0	0	0	0	0	51484.8
+UNINTEGRATED|g__Eucampia.s__Eucampia_antarctica__49252	24.4764	273.929	0	203.885	135.134	0	74.6416	608.696	0	65.1217	0	0	0	104.203
+UNINTEGRATED|g__Euplotes.s__Euplotes_harpa__151035	0	0	0	0	0	0	0	0	0	0	0	0	0	1262.02
+UNINTEGRATED|g__Eurytemora.s__Eurytemora_affinis__88015	0	0	4.25655e+06	0	0	0	0	0	0	0	0	0	0	0
+UNINTEGRATED|g__Exanthemachrysis.s__Exanthemachrysis_gayraliae__119497	0	0	0	0	0	0	2186.68	0	0	0	0	0	0	0
+UNINTEGRATED|g__Extubocellulus.s__Extubocellulus_spinifer__265572	0	5133.37	0	2735.67	0	0	11424.2	0	0	0	0	0	0	5175.57
+UNINTEGRATED|g__Fibrocapsa.s__Fibrocapsa_japonica__94617	540.27	1462.79	0	653.81	0	0	0	0	0	0	0	0	0	489.757
+UNINTEGRATED|g__Formosa.s__Formosa_sp.__2018467	5355.15	2446.31	0	1872.63	0	0	0	0	0	1113.83	3539.3	0	0	0
+UNINTEGRATED|g__Gambierdiscus.s__Gambierdiscus_australes__439317	438.302	14.5769	0	9.82969	1460.42	808.474	0	0	0	0	0	0	0	138.788
+UNINTEGRATED|g__Geminigera.s__Geminigera_cryophila__46947	180213	99296.6	498081	21798.2	29679.6	173827	0	0	274703	34003.6	81671	0	0	43108.4
+UNINTEGRATED|g__Geminigera.s__unclassified__46946	11094.2	3452.74	0	1223.78	0	0	0	0	7149.43	361.816	2721.05	21020.4	0	3403.57
+UNINTEGRATED|g__Gonyaulax.s__Gonyaulax_spinifera__66791	0	0	0	0	0	0	0	0	0	0	0	0	0	543.275
+UNINTEGRATED|g__Grammatophora.s__Grammatophora_oceanica__210454	8.86563	615.366	0	153.409	3789.56	1884.83	0	1409.75	0	68.4003	0	0	7671.33	91.7441
+UNINTEGRATED|g__Gymnodinium.s__Gymnodinium_catenatum__39447	645.122	678.949	10305	281.417	3606.72	0	0	13223.5	51.0093	1379.07	13186.9	0	0	593.322
+UNINTEGRATED|g__Haptolina.s__Haptolina_brevifila__156173	12569.1	14429.4	0	6880.86	36543.1	0	0	0	17443.5	0	11932.5	19951.5	80500.1	8301.65
+UNINTEGRATED|g__Haptolina.s__Haptolina_ericina__156174	0	0	0	0	0	0	0	0	0	0	0	0	0	448.968
+UNINTEGRATED|g__Helicotheca.s__Helicotheca_tamesis__374047	0	0	0	0	0	0	430.226	0	0	0	0	0	0	0
+UNINTEGRATED|g__Hemiselmis.s__Hemiselmis_rufescens__77926	545.366	142.61	0	363.686	0	0	0	0	0	0	0	0	0	1.44889
+UNINTEGRATED|g__Heterocapsa.s__Heterocapsa_arctica__192219	0	17.9301	0	0.858773	108.737	0	0	0	0	0	0	0	0	23.398
+UNINTEGRATED|g__Heterocapsa.s__Heterocapsa_rotundata__89963	623.221	377.054	0	139.422	807.735	108.997	173.5	459.091	472.333	83.9791	0	0	0	126.284
+UNINTEGRATED|g__Hydrurus.s__Hydrurus_foetidus__2996	0	0	0	119.266	0	0	0	0	0	0	1314.02	0	0	0
+UNINTEGRATED|g__Imantonia.s__Imantonia_sp.__1907789	0	0	0	0	0	0	0	0	0	0	0	0	0	94.2514
+UNINTEGRATED|g__Isochrysis.s__Isochrysis_sp.__40639	0	0	0	0	0	0	0	0	0	0	0	0	0	518.205
+UNINTEGRATED|g__Karenia.s__Karenia_brevis__156230	0	1393.18	0	505.981	0	0	0	2236.26	0	0	0	0	0	843.961
+UNINTEGRATED|g__Karlodinium.s__Karlodinium_veneficum__407301	334.164	369.546	0	168.272	1555.68	1305.83	44.5865	530.591	410.254	9.94342	0	1106.84	0	173.1
+UNINTEGRATED|g__Kryptoperidinium.s__Kryptoperidinium_foliaceum__160619	2928.02	4581.67	17090.7	445.667	4544.33	2384.35	4515.54	1708.87	1543.78	293.758	6554.44	9035.4	28635.4	882.595
+UNINTEGRATED|g__Licmophora.s__Licmophora_paradoxa__515479	0	35.742	0	174.032	287.058	0	0	1960.54	0	114.203	0	0	0	53.4859
+UNINTEGRATED|g__Lingulodinium.s__Lingulodinium_polyedra__160621	261.53	113.883	0	146.622	1260.82	1159.72	0	616.793	0	0	0	0	0	260.854
+UNINTEGRATED|g__Mallomonas.s__Mallomonas_sp.__2003107	0	0	0	131.401	0	0	0	0	0	0	0	0	0	556.937
+UNINTEGRATED|g__Mesodinium.s__Mesodinium_pulex__283647	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+UNINTEGRATED|g__Microchloropsis.s__Microchloropsis_salina__1027361	0	0	0	30.5386	0	0	0	0	0	0	0	0	0	0
+UNINTEGRATED|g__Micromonas.s__Micromonas_pusilla__38833	0	0	0	12667	0	0	0	0	0	0	0	0	0	6041.77
+UNINTEGRATED|g__Micromonas.s__unclassified__38832	5443.34	6620.48	0	8352.77	0	0	0	116541	40539.1	10673.8	10900.8	272888	223869	5385.93
+UNINTEGRATED|g__Minutocellus.s__Minutocellus_polymorphus__265543	0	8290.01	0	5978.88	0	0	190.551	2350.56	0	0	0	0	0	2603.33
+UNINTEGRATED|g__Nitzschia.s__Nitzschia_putrida__2742595	0	0	0	0	0	0	0	0	0	0	0	0	0	28.3974
+UNINTEGRATED|g__Noctiluca.s__Noctiluca_scintillans__2966	15255.6	14361.2	17285	5928.54	33649.6	0	0	20368.8	0	1735.17	10744.7	0	0	5416.17
+UNINTEGRATED|g__Odontella.s__Odontella_aurita__265563	1.61467	2.06298	0	0	0	0	0	0	0	0	0	0	0	104.157
+UNINTEGRATED|g__Ostreococcus.s__Ostreococcus_sp._'lucimarinus'__242159	23087.9	20458.2	7718.77	16941.6	319852	220638	4896.54	189203	74047.5	30528.5	20264.8	115643	1.0112e+06	7490.61
+UNINTEGRATED|g__Owenweeksia.s__Owenweeksia_sp._TMED14__1986609	0	0	0	0	0	0	0	0	0	326.757	0	0	0	0
+UNINTEGRATED|g__Paracoccus.s__Paracoccus_sp._H4-D09__2812658	0	331.074	0	0	0	0	0	0	0	0	0	0	0	0
+UNINTEGRATED|g__Paraphysomonas.s__Paraphysomonas_bandaiensis__89770	28791.3	42147.4	0	27439.7	0	0	0	88478.2	0	8150.52	57408.2	243359	0	17953.3
+UNINTEGRATED|g__Partenskyella.s__Partenskyella_glossopodia__552666	0	0	0	46.7173	0	0	0	0	0	0	0	0	0	0
+UNINTEGRATED|g__Pelagococcus.s__Pelagococcus_subviridis__35679	0	0	3068.34	0	0	0	0	0	2918.81	590.288	5778.73	0	0	4508.28
+UNINTEGRATED|g__Pelagodinium.s__unclassified__766107	23.725	54.4059	0	49.9422	199.637	1013.44	0	9.84095	36.1083	0	0	161.991	0	11.7271
+UNINTEGRATED|g__Planktomarina.s__Planktomarina_temperata__1284658	0	1474.5	0	0	0	0	0	0	0	0	0	0	0	316.881
+UNINTEGRATED|g__Platyophrya.s__Platyophrya_macrostoma__938130	0	0	0	0	0	0	0	0	0	0	0	0	0	799.38
+UNINTEGRATED|g__Polarella.s__Polarella_glacialis__89957	416.739	246.578	0	161.669	927.758	747.933	87.3871	478.914	171.378	23.5299	0	323.934	0	77.4083
+UNINTEGRATED|g__Polaribacter.s__uncultured_Polaribacter_sp.__174711	0	1818.24	0	808.288	0	0	0	0	0	0	2517.43	0	0	0
+UNINTEGRATED|g__Prochlorococcus.s__Prochlorococcus_sp_MIT_0801	0	0	0	0	0	0	0	0	0	0	0	0	0	191.12
+UNINTEGRATED|g__Prymnesium.s__Prymnesium_parvum__97485	0	0	0	28.3798	261.611	0	0	0	0	0	144.773	0	0	0
+UNINTEGRATED|g__Prymnesium.s__Prymnesium_polylepis__72548	0	620.196	0	1960.93	0	0	0	604.586	0	0	0	0	0	2037.63
+UNINTEGRATED|g__Pseudictyota.s__Pseudictyota_dubia__2749911	123.058	566.148	0	1271.02	0	0	536.009	72.8221	0	0	0	0	0	333.876
+UNINTEGRATED|g__Pseudo-nitzschia.s__Pseudo-nitzschia_fraudulenta__183588	0	0	0	2.38321	0	0	0	0	0	0	0	0	0	0
+UNINTEGRATED|g__Pseudokeronopsis.s__Pseudokeronopsis_sp.__1634380	1967	5236.92	0	2208.46	8479.27	4294.76	0	2420.58	3562.08	958.798	2960.53	0	11079.9	2229.83
+UNINTEGRATED|g__Pseudomonas.s__Pseudomonas_aeruginosa__287	0	68.7351	0	0	0	0	0	0	0	0	0	0	0	0
+UNINTEGRATED|g__Pseudomonas.s__Pseudomonas_fluorescens_group	0	805188	0	0	0	0	0	0	0	0	0	0	0	0
+UNINTEGRATED|g__Pseudomonas.s__Pseudomonas_simiae__321846	0	0	0	0	0	0	0	695.54	0	0	0	0	0	0
+UNINTEGRATED|g__Pseudomonas.s__Pseudomonas_sp._SDM007_2__2812898	0	478.405	0	0	0	0	0	0	0	0	0	0	0	0
+UNINTEGRATED|g__Pseudopedinella.s__Pseudopedinella_elastica__35684	0	1510.24	0	0	0	0	0	0	0	0	0	0	0	350.275
+UNINTEGRATED|g__Rhodobacterales_unclassified.s__Rhodobacterales_bacterium_HTCC2255	0	0	0	950.649	0	0	0	0	0	0	4351.52	0	0	0
+UNINTEGRATED|g__Rhodomonas.s__Rhodomonas_abbreviata__46948	0	192.978	0	0	0	0	0	0	0	0	0	0	0	28.238
+UNINTEGRATED|g__Rhodomonas.s__Rhodomonas_lens__354590	0	4204.96	0	0	0	0	0	0	0	0	0	0	0	5176.71
+UNINTEGRATED|g__Schmidingerella.s__Schmidingerella_taraikaensis__626734	8171.33	6453.29	12093	2139.63	0	12597.3	10946.9	0	10329.3	3029.56	17126.6	33936.2	61350.9	5759.22
+UNINTEGRATED|g__Scrippsiella.s__Scrippsiella_trochoidea__71861	228.626	48.9818	0	0	1047.7	362.232	0	296.982	0	22.129	0	0	0	172.262
+UNINTEGRATED|g__Scyphosphaera.s__Scyphosphaera_apsteinii__418940	0	11762.2	0	2832.4	814.579	0	0	1299.78	279.785	0	374.337	4152.22	0	2653.1
+UNINTEGRATED|g__Shewanella.s__Shewanella_frigidimarina__56812	0	87.4146	0	11.6498	0	0	0	0	0	0	0	0	0	17.9656
+UNINTEGRATED|g__Sorites.s__Sorites_sp.__126664	0	3403.79	3460.78	486.936	20117.3	0	1897.44	0	0	440.354	2193.79	9847.67	0	491.149
+UNINTEGRATED|g__Stephanopyxis.s__Stephanopyxis_turris__515487	0	6299.04	0	10526.7	0	0	2079.82	9137.42	0	0	0	0	2169.7	1574.04
+UNINTEGRATED|g__Striatella.s__Striatella_unipunctata__210618	474.594	0	0	243.577	12097.2	6237.17	575.419	1261.83	0	0	0	0	21782	230.67
+UNINTEGRATED|g__Strombidinopsis.s__Strombidinopsis_sp.__181622	658.04	208.756	0	322.692	2211.07	527.954	0	972.989	0	118.08	435.089	0	1490.8	364.105
+UNINTEGRATED|g__Strombidium.s__Strombidium_inclinatum__197538	987.596	1702.93	2124.28	2750.74	9436.39	0	896.642	2552.22	0	1282.07	2085.68	0	0	676.213
+UNINTEGRATED|g__Strombidium.s__Strombidium_rassoulzadegani__1082188	273.528	237.897	197.577	1165.93	2751.34	2281.92	308.222	1504.22	4910.36	827.792	5794.84	6012.19	2211.44	407.417
+UNINTEGRATED|g__Stygamoeba.s__Stygamoeba_regulata__1042828	0	0	0	502.338	0	0	0	0	0	0	0	0	0	0
+UNINTEGRATED|g__Symbiodinium.s__Symbiodinium_sp.__2950	38.7212	104.805	0	30.9832	281.85	0	0	87.9772	61.0752	17.1155	0	0	0	41.0343
+UNINTEGRATED|g__Symbiodinium.s__Symbiodinium_sp._clade_A__1563115	0	2180.47	0	1649.43	0	0	0	2860.15	0	167.995	0	0	0	0
+UNINTEGRATED|g__Synechococcus.s__Synechococcus_sp._BS307-5m-G35__2781766	0	0	0	1569.77	0	0	0	0	0	1162.33	0	0	0	0
+UNINTEGRATED|g__Synechococcus.s__Synechococcus_sp._BS30m-G30__2781771	0	1330.56	0	1145.82	29296.6	0	869.544	6719.51	0	0	0	0	0	918.936
+UNINTEGRATED|g__Synechococcus.s__Synechococcus_sp._BS30m-G31__2781772	1651.8	1802.99	0	1885.83	8268.57	0	1321.74	4480.93	5307.67	1704.72	1997.62	0	0	760.762
+UNINTEGRATED|g__Synechococcus.s__Synechococcus_sp_BL107	0	6014.07	0	7968.4	0	0	0	13319.1	0	4775.18	9685.49	0	0	0
+UNINTEGRATED|g__Synechococcus.s__Synechococcus_sp_CC9902	7203.2	9446.41	0	9330.06	33000.4	7867.49	5967.36	27840.8	10248	4767.55	11641.2	0	0	2231.31
+UNINTEGRATED|g__Tetraselmis.s__Tetraselmis_astigmatica__1074897	334.175	33.622	0	23.3814	763.268	0	0	0	0	42.1788	0	337.284	0	0
+UNINTEGRATED|g__Thalassionema.s__Thalassionema_frauenfeldii__186022	0	556.78	0	140.503	924.33	0	316.832	675.265	0	0	0	0	883.2	581.369
+UNINTEGRATED|g__Thalassiosira.s__Thalassiosira_antarctica__160265	0	0	0	0	0	0	0	0	0	0	0	0	0	3344.57
+UNINTEGRATED|g__Thalassiosira.s__Thalassiosira_oceanica__159749	0	1724.67	0	0	7372.53	0	0	7686.99	0	0	901.764	0	0	0
+UNINTEGRATED|g__Thalassiosira.s__Thalassiosira_punctigera__265564	0	199.647	0	0	0	0	1307.06	24.7906	0	0	0	0	0	176.792
+UNINTEGRATED|g__Thalassiothrix.s__Thalassiothrix_antarctica__1049557	7.51881	5.23718	11.8603	0.433274	8.08789	0	3.22414	10.729	0	0	0	0	49.1894	1.99639
+UNINTEGRATED|g__Thalassospira.s__Thalassospira_sp.__1912094	0	799.748	0	0	0	0	0	0	0	0	0	0	0	0
+UNINTEGRATED|g__Thraustochytrium.s__Thraustochytrium_sp.__145168	0	0	0	0	0	0	0	0	0	0	0	366.264	0	0
+UNINTEGRATED|g__Tigriopus.s__Tigriopus_kingsejongensis__1133412	3630.63	2519.07	0	607.615	0	1773.45	6086.61	2244.57	0	429.57	141.246	0	0	258.944
+UNINTEGRATED|g__Togula.s__Togula_jolla__285029	3006.22	1274.58	8760.76	2604.71	1754.15	0	0	9487.89	0	569.455	1540.86	0	0	392.086
+UNINTEGRATED|g__Trieres.s__Trieres_chinensis__1514140	0	241.949	0	87.3509	0	0	332.981	467.865	0	0	0	0	0	58.9267
+UNINTEGRATED|g__Tryblionella.s__Tryblionella_compressa__913974	302.766	0	0	0	0	0	0	0	0	0	0	0	0	0
+UNINTEGRATED|g__Vaucheria.s__Vaucheria_litorea__109269	0	0	0	0	0	0	0	0	0	0	0	1306.22	0	0
+UNINTEGRATED|g__Verruconis.s__Verruconis_gallopava__253628	0	0	0	0	0	0	0	3819.77	0	0	0	0	0	0
+UNINTEGRATED|g__unclassified.s__unclassified__1136790	0	2925.78	0	2332.02	0	0	0	0	0	0	3338.72	0	0	0
+UNINTEGRATED|g__unclassified.s__unclassified__200605	7167.89	6557.29	4964.81	3958.7	0	12163.8	6344.78	8183.6	3204.54	729.57	3518.89	20305.5	10682.3	4813.71
+UNINTEGRATED|g__unclassified.s__unclassified__41302	26264.9	0	0	395.65	0	0	0	0	8444.9	1958.26	0	0	0	0
+UNINTEGRATED|g__unclassified.s__unclassified__72037	0	0	323113	0	0	0	0	0	0	0	0	0	0	0
+UNINTEGRATED|g__unclassified.s__unclassified__98651	18785.7	19488.7	0	9495.37	0	0	0	0	0	0	0	0	0	7215.15
+1CMET2-PWY: folate transformations III (E. coli)	0	0	0	16.5213	0	0	0	0	0	4.11291	25.4807	0	0	0
+ANAEROFRUCAT-PWY: homolactic fermentation	0	35.117	0	18.1109	0	0	0	63.2224	0	8.27773	53.5189	0	0	8.72735
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)	98.1911	101.05	0	75.7781	0	0	0	80.7185	57.0148	38.8643	132.829	191.318	0	22.6234
+ARGININE-SYN4-PWY: L-ornithine biosynthesis II	5.89737	10.0523	0	12.2776	62.4046	0	4.20018	17.006	17.2875	5.62832	24.8918	0	0	5.2058
+ARGININE-SYN4-PWY: L-ornithine biosynthesis II|g__Asterionella.s__Asterionella_formosa__210441	0	0	0	0	0	0	0.595085	0	0	0	0	0	0	0
+ARGININE-SYN4-PWY: L-ornithine biosynthesis II|g__Attheya.s__Attheya_septentrionalis__420275	0	0	0	0	0	0	0.0288308	0	0	0	0	0	0	0.00546793
+ARGININE-SYN4-PWY: L-ornithine biosynthesis II|g__Chaetoceros.s__Chaetoceros_dichaeta__420782	0	0	0	0	0	0	0.616341	0	0	0	0	0	0	0
+ARGININE-SYN4-PWY: L-ornithine biosynthesis II|g__Coscinodiscus.s__Coscinodiscus_wailesii__671091	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0159675
+ARGININE-SYN4-PWY: L-ornithine biosynthesis II|g__Dactyliosolen.s__Dactyliosolen_fragilissimus__1118495	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0204232
+ARGININE-SYN4-PWY: L-ornithine biosynthesis II|g__Eucampia.s__Eucampia_antarctica__49252	0.0771333	0	0	0	0	0	0	0	0	0	0	0	0	0.0722402
+ARGININE-SYN4-PWY: L-ornithine biosynthesis II|g__Geminigera.s__Geminigera_cryophila__46947	0	3.10587	0	0	0	0	0	0	0	0	0	0	0	0
+ARGININE-SYN4-PWY: L-ornithine biosynthesis II|g__Nitzschia.s__Nitzschia_putrida__2742595	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0640916
+ARGININE-SYN4-PWY: L-ornithine biosynthesis II|g__Odontella.s__Odontella_aurita__265563	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0208635
+ARGININE-SYN4-PWY: L-ornithine biosynthesis II|g__Rhodomonas.s__Rhodomonas_abbreviata__46948	0	0.0397822	0	0	0	0	0	0	0	0	0	0	0	0
+ARGININE-SYN4-PWY: L-ornithine biosynthesis II|g__Rhodomonas.s__Rhodomonas_lens__354590	0	0.0383384	0	0	0	0	0	0	0	0	0	0	0	0
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)	17.7138	36.1338	0	35.0669	97.6678	0	0	77.271	29.9878	17.2533	45.1651	0	0	18.1953
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	5.10643	0	0	0	0	0	2.29001	0	0	0	0
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	6.78697	0	0	0	0	0	4.29695	0	0	0	0
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)	21.3495	42.5723	0	42.8208	101.559	0	0	66.5343	35.2601	11.1835	53.9341	0	0	22.4454
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	3.0697	0	0	0	0	0	1.54996	0	0	0	0
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	6.72494	0	0	0	0	0	3.52545	0	0	0	3.00195
+ARO-PWY: chorismate biosynthesis I	48.9766	54.7335	0	42.7929	113.796	57.3519	0	79.4025	19.9674	9.41168	49.9129	0	0	9.71678
+ARO-PWY: chorismate biosynthesis I|g__Synechococcus.s__Synechococcus_sp_BL107	0	8.46931	0	2.90527	0	0	0	0	0	0	8.96585	0	0	0
+ARO-PWY: chorismate biosynthesis I|g__Synechococcus.s__Synechococcus_sp_CC9902	0	5.51799	0	5.39368	0	0	0	0	11.0196	3.02526	11.5877	0	0	0
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis	0	7.13111	0	0	0	0	0	0	0	0	0	0	0	0
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched chain amino acid biosynthesis	117.5	154.345	0	103.365	297.382	60.8497	110.86	225.473	48.6576	41.1684	127.016	100.463	0	60.1629
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched chain amino acid biosynthesis|g__Synechococcus.s__Synechococcus_sp_BL107	0	13.0257	0	11.3292	0	0	0	17.2075	0	4.6879	8.73432	0	0	0
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched chain amino acid biosynthesis|g__Synechococcus.s__Synechococcus_sp_CC9902	0	8.60946	0	9.75709	0	0	0	14.2565	0	3.31996	10.4719	0	0	4.78637
+CALVIN-PWY: Calvin-Benson-Bassham cycle	620.377	690.471	1098.26	241.96	1565.41	407.993	468.199	1378.76	206.572	55.9363	242.757	208.75	1153.46	189.916
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Cylindrotheca.s__Cylindrotheca_closterium__2856	0	0	0	0	0	0	0	0.461626	0	0	0	0	0	0
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Odontella.s__Odontella_aurita__265563	0	0.579313	0	0	0	0	0	0	0	0	0	0	0	0
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Pseudictyota.s__Pseudictyota_dubia__2749911	0	0.663884	0	0	0	0	0.53487	0	0	0	0	0	0	0.069896
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Synechococcus.s__Synechococcus_sp_BL107	0	22.3685	0	15.1931	0	0	0	82.7835	0	4.06359	7.69252	0	0	0
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Synechococcus.s__Synechococcus_sp_CC9902	39.0625	52.6025	0	29.6807	139.997	0	25.4602	174.306	21.2491	5.47036	22.8575	0	0	20.3037
+CHLOROPHYLL-SYN: 3,8-divinyl-chlorophyllide a biosynthesis I (aerobic, light-dependent)	66.9817	113.377	44.3993	41.8032	63.1479	27.7336	64.891	147.292	30.4893	7.70465	41.5969	0	0	26.8847
+CHLOROPHYLL-SYN: 3,8-divinyl-chlorophyllide a biosynthesis I (aerobic, light-dependent)|g__Bathycoccus.s__Bathycoccus_prasinos__41875	0	1.43637	0	0	0	0	0	0	0	0	0	0	0	0
+CHLOROPHYLL-SYN: 3,8-divinyl-chlorophyllide a biosynthesis I (aerobic, light-dependent)|g__Bathycoccus.s__unclassified__41874	0	0.54044	0	0	0	0	0	0	0	0	0	0	0	0
+CHLOROPHYLL-SYN: 3,8-divinyl-chlorophyllide a biosynthesis I (aerobic, light-dependent)|g__Prochlorococcus.s__Prochlorococcus_sp_MIT_0801	0	0	0	0	0	0	0	0	0	0	0	0	0	2.38147
+CHLOROPHYLL-SYN: 3,8-divinyl-chlorophyllide a biosynthesis I (aerobic, light-dependent)|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	7.83636	0	0	0	13.7437	0	0	0	0	0	0
+CHLOROPHYLL-SYN: 3,8-divinyl-chlorophyllide a biosynthesis I (aerobic, light-dependent)|g__Synechococcus.s__Synechococcus_sp_CC9902	0	10.8436	0	5.58016	0	0	0	26.5585	0	0	0	0	0	4.13789
+CITRULBIO-PWY: L-citrulline biosynthesis	99.0883	150.85	75.1242	56.7891	316.858	188.722	93.2963	163.117	120.028	22.2855	104.814	286.313	292.044	67.5009
+COA-PWY-1: superpathway of coenzyme A biosynthesis III (mammals)	0	0	0	11.5073	0	0	0	0	0	4.47984	0	0	0	0
+COA-PWY: coenzyme A biosynthesis I (prokaryotic)	15.4771	5.16021	0	13.0125	0	0	0	15.5629	16.9645	7.30998	27.6511	0	0	9.18629
+COA-PWY: coenzyme A biosynthesis I (prokaryotic)|g__Formosa.s__Formosa_sp.__2018467	8.54331	0	0	0	0	0	0	0	0	0	10.6402	0	0	0
+COA-PWY: coenzyme A biosynthesis I (prokaryotic)|g__Synechococcus.s__Synechococcus_sp._BS307-5m-G35__2781766	0	0	0	4.57971	0	0	0	0	0	4.15616	0	0	0	0
+COA-PWY: coenzyme A biosynthesis I (prokaryotic)|g__Synechococcus.s__Synechococcus_sp._BS30m-G30__2781771	0	0	0	0	0	0	0	0	0	0	0	0	0	2.12609
+COA-PWY: coenzyme A biosynthesis I (prokaryotic)|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	0	0	0	0	0	0	0	6.11153	0	0	0
+COA-PWY: coenzyme A biosynthesis I (prokaryotic)|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	5.38729	0	0	0	0	0	0	7.28237	0	0	0
+COBALSYN-PWY: superpathway of adenosylcobalamin salvage from cobinamide I	6.39146	0	0	0	0	0	0	0	0	0	0	0	0	0
+COLANSYN-PWY: colanic acid building blocks biosynthesis	24.0589	56.0554	39.96	31.2719	0	57.2633	24.5796	79.1618	0	6.64175	25.3698	0	89.3084	15.9168
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis	0	0	0	0	0	0	0	0	0	7.60469	45.1505	0	0	6.71196
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	0	0	0	0	0	0	0	8.90719	0	0	0
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	0	0	0	0	0	0	3.20224	11.0824	0	0	0
+CRNFORCAT-PWY: creatinine degradation I	0	2.31244	0	4.19929	0	0	0	0	0	0	0	0	0	0
+DAPLYSINESYN-PWY: L-lysine biosynthesis I	0	12.4849	0	9.94674	0	0	0	0	0	6.32297	21.3835	0	0	0
+DTDPRHAMSYN-PWY: dTDP-&beta;-L-rhamnose biosynthesis	25.2917	39.6473	0	33.3266	105.508	0	25.9993	74.7829	0	8.82686	27.1172	0	0	12.3184
+DTDPRHAMSYN-PWY: dTDP-&beta;-L-rhamnose biosynthesis|g__Synechococcus.s__Synechococcus_sp._BS30m-G31__2781772	12.1068	11.6603	0	8.81668	52.9052	0	9.36386	34.3552	0	4.98204	12.6738	0	0	4.11911
+DTDPRHAMSYN-PWY: dTDP-&beta;-L-rhamnose biosynthesis|g__Synechococcus.s__Synechococcus_sp_CC9902	0	10.3543	0	6.62247	0	0	0	19.7578	0	1.50438	0	0	0	4.18559
+FASYN-ELONG-PWY: fatty acid elongation -- saturated	27.0964	23.0137	0	13.7599	0	0	0	102.801	0	0	0	0	0	20.6854
+FERMENTATION-PWY: mixed acid fermentation	15.6567	30.6663	0	36.115	0	0	0	71.4724	0	15.15	52.0871	0	0	13.1236
+GLUCONEO-PWY: gluconeogenesis I	61.032	87.4176	0	66.3291	0	0	36.1492	163.177	0	37.0594	68.8325	0	0	29.6163
+GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation	0	0	0	12.6848	0	0	0	0	0	5.02136	10.2561	0	0	5.60316
+GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation|g__Pseudo-nitzschia.s__Pseudo-nitzschia_fraudulenta__183588	0	0	0	0.172896	0	0	0	0	0	0	0	0	0	0
+GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	4.3515	0	0	0	0	0	0	0	0	0	0
+GLUTORN-PWY: L-ornithine biosynthesis I	13.7246	31.3491	0	17.5984	70.4964	0	0	47.1097	17.5839	9.38958	31.1539	0	0	10.3513
+GLUTORN-PWY: L-ornithine biosynthesis I|g__Synechococcus.s__Synechococcus_sp._BS30m-G31__2781772	0	0	0	2.89234	0	0	0	0	0	0	0	0	0	2.23977
+GLUTORN-PWY: L-ornithine biosynthesis I|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	1.82298	0	0	0	0	0	0.86786	0	0	0	0
+GLUTORN-PWY: L-ornithine biosynthesis I|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	3.09952	0	0	0	0	0	2.0309	0	0	0	0
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)	37.4258	47.9693	43.3597	20.5807	218.838	40.0795	54.7101	256.466	18.5555	7.51341	15.1032	0	162.232	9.06632
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Prochlorococcus.s__Prochlorococcus_sp_MIT_0801	0	0	0	0	0	0	0	0	0	0	0	0	0	2.84249
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Synechococcus.s__Synechococcus_sp._BS30m-G30__2781771	0	6.17622	0	3.04908	0	0	6.12163	33.7936	0	0	0	0	0	0
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Synechococcus.s__Synechococcus_sp_BL107	0	10.939	0	6.62208	0	0	0	52.3469	0	0.975126	5.14835	0	0	0
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Synechococcus.s__Synechococcus_sp_CC9902	19.7306	17.7611	0	8.10636	114.12	0	26.2569	115	10.9989	3.06683	7.13666	0	0	3.69083
+GLYCOLYSIS-E-D: superpathway of glycolysis and the Entner-Doudoroff pathway	0	30.0037	0	19.6724	0	0	0	40.9081	41.2371	8.01674	24.0716	0	0	6.52433
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)	98.0825	103.108	0	75.4727	322.658	137.606	0	182.152	103.908	38.7215	132.336	190.908	0	52.5505
+GLYOXYLATE-BYPASS: glyoxylate cycle	66.2145	43.2433	34.8942	36.1467	162.449	0	52.705	74.8593	42.2163	15.068	45.7316	113.349	195.886	11.2462
+HEME-BIOSYNTHESIS-II-1: heme b biosynthesis V (aerobic)	65.6554	105.441	27.4662	59.116	190.982	33.2806	48.6011	252.788	28.3156	10.5039	33.1772	0	47.745	27.3385
+HEME-BIOSYNTHESIS-II-1: heme b biosynthesis V (aerobic)|g__Bathycoccus.s__Bathycoccus_prasinos__41875	0	0.903485	0	0	0	0	0	0	0	0	0	0	0	0
+HEME-BIOSYNTHESIS-II-1: heme b biosynthesis V (aerobic)|g__Bathycoccus.s__unclassified__41874	0	0.224052	0	0	0	0	0	0	0	0	0	0	0	0
+HEME-BIOSYNTHESIS-II-1: heme b biosynthesis V (aerobic)|g__Synechococcus.s__Synechococcus_sp_BL107	0	17.2218	0	15.1123	0	0	0	48.7669	0	2.5997	7.10417	0	0	0
+HEME-BIOSYNTHESIS-II-1: heme b biosynthesis V (aerobic)|g__Synechococcus.s__Synechococcus_sp_CC9902	23.6455	20.0719	0	13.7765	67.817	0	16.8141	54.2952	0	2.28843	8.38205	0	0	6.04067
+HEME-BIOSYNTHESIS-II: heme b biosynthesis I (aerobic)	65.6554	105.441	43.3108	59.116	190.982	33.2806	79.6596	252.788	28.3156	10.5039	33.1772	0	72.9877	27.3385
+HEME-BIOSYNTHESIS-II: heme b biosynthesis I (aerobic)|g__Bathycoccus.s__Bathycoccus_prasinos__41875	4.74998	5.42583	0	3.21587	0	8.58674	3.50836	0	0	0	6.14588	0	18.6973	2.47025
+HEME-BIOSYNTHESIS-II: heme b biosynthesis I (aerobic)|g__Bathycoccus.s__unclassified__41874	1.01187	0.366074	0	0.72371	0	0	0.716929	0	0	0	0	0	0	0.321098
+HEME-BIOSYNTHESIS-II: heme b biosynthesis I (aerobic)|g__Durinskia.s__Durinskia_baltica__400756	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0509165
+HEME-BIOSYNTHESIS-II: heme b biosynthesis I (aerobic)|g__Eucampia.s__Eucampia_antarctica__49252	0	0.062562	0	0	0	0	0	0	0	0	0	0	0	0
+HEME-BIOSYNTHESIS-II: heme b biosynthesis I (aerobic)|g__Synechococcus.s__Synechococcus_sp_BL107	0	17.2218	0	15.1123	0	0	0	48.7669	0	2.5997	7.10417	0	0	0
+HEME-BIOSYNTHESIS-II: heme b biosynthesis I (aerobic)|g__Synechococcus.s__Synechococcus_sp_CC9902	23.6455	20.0719	0	13.7765	67.817	0	16.8141	54.2952	0	2.28843	8.38205	0	0	6.04067
+HEMESYN2-PWY: heme b biosynthesis II (oxygen-independent)	0	6.29033	0	0	0	0	0	0	0	0	0	0	0	0
+HISDEG-PWY: L-histidine degradation I	7.00502	0	0	0	0	0	0	0	0	0	0	0	0	0
+HISTSYN-PWY: L-histidine biosynthesis	0	34.9821	0	0	0	0	0	36.6552	0	0	15.6936	0	0	7.77586
+HSERMETANA-PWY: L-methionine biosynthesis III	39.9312	44.3045	0	42.3477	357.276	153.602	0	105.287	76.509	32.9641	117.49	256.327	206.158	36.1143
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Alexandrium.s__Alexandrium_catenella__2925	0	0	0	0	0	0	0	0	0	0	0	0	0	2.68915
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Gambierdiscus.s__Gambierdiscus_australes__439317	0	0	0	0	0	0	0	0	0	0	0	0	0	0.690206
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Heterocapsa.s__Heterocapsa_arctica__192219	0	0	0	0	0	0	0	0	0	0	0	0	0	0.605223
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Noctiluca.s__Noctiluca_scintillans__2966	0	0	0	0	0	0	0	0	0	0	0	0	0	0.35453
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)	147.36	178.785	0	131.132	330.113	73.1921	161	253	123.119	47.397	165.824	138.109	147.074	87.0027
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Synechococcus.s__Synechococcus_sp_BL107	0	13.926	0	13.0293	0	0	0	16.7101	0	5.29385	10.2124	0	0	0
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Synechococcus.s__Synechococcus_sp_CC9902	0	9.45913	0	10.6174	0	0	0	12.847	0	3.66055	11.4971	0	0	5.65301
+NAGLIPASYN-PWY: lipid IVA biosynthesis (E. coli)	0	7.42208	0	0	0	0	0	0	0	0	8.38613	0	0	0
+NONMEVIPP-PWY: methylerythritol phosphate pathway I	0	44.3941	0	30.5598	0	0	0	52.5536	0	6.35696	26.361	0	0	10.2029
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch) I	290.525	273.434	166.281	125.207	633.867	210.11	160.805	502.445	112.733	35.7911	142.374	85.5225	437.088	70.0812
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch) I|g__Chrysochromulina.s__Chrysochromulina_rotalis__412157	4.70003	9.33844	0	1.4024	0	0	0	0	0	0	0	0	0	1.37805
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch) I|g__Geminigera.s__Geminigera_cryophila__46947	0	1.07126	0	0	0	0	0	0	0	0	0	0	0	0
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch) I|g__Haptolina.s__Haptolina_brevifila__156173	0	0	0	0	0	0	0	0	0	0	0	0	0	0.299604
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch) I|g__Haptolina.s__Haptolina_ericina__156174	0	0	0	0	0	0	0	0	0	0	0	0	0	0.933185
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch) I|g__Imantonia.s__Imantonia_sp.__1907789	0	0	0	0	0	0	0	0	0	0	0	0	0	0.155541
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch) I|g__Isochrysis.s__Isochrysis_sp.__40639	0	0	0	0	0	0	0	0	0	0	0	0	0	0.170013
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch) I|g__Odontella.s__Odontella_aurita__265563	0.110578	0	0	0	0	0	0	0	0	0	0	0	0	0.0799988
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch) I|g__Pseudictyota.s__Pseudictyota_dubia__2749911	0.0804958	0	0	0	0	0	0	0	0	0	0	0	0	0.191057
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch) I|g__Synechococcus.s__Synechococcus_sp_BL107	0	17.3239	0	11.6182	0	0	0	61.0966	0	5.01725	21.1787	0	0	0
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch) I|g__Synechococcus.s__Synechococcus_sp_CC9902	25.2058	26.9301	0	17.599	139.484	0	18.3874	80.4477	29.3489	5.20835	18.258	0	0	5.76136
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)	15.8442	31.7172	0	18.0872	64.9491	0	0	85.1093	0	6.28357	18.3198	0	0	8.86649
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)|g__Synechococcus.s__Synechococcus_sp_CC9902	0	4.96699	0	3.9757	0	0	0	18.0356	0	0	0	0	0	0
+P105-PWY: TCA cycle IV (2-oxoglutarate decarboxylase)	0	0	0	0	0	0	0	0	0	0	15.8425	0	0	0
+PANTO-PWY: phosphopantothenate biosynthesis I	0	18.118	0	14.5169	83.0563	0	0	40.4398	0	5.3872	25.0795	0	0	5.24017
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Synechococcus.s__Synechococcus_sp._BS30m-G30__2781771	0	0	0	0	64.6622	0	0	0	0	0	0	0	0	0
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	0	0	0	0	0	0	0.516736	0	0	0	0
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	0	0	0	0	0	0	2.11217	0	0	0	0
+PANTOSYN-PWY: superpathway of coenzyme A biosynthesis I (bacteria)	0	0	0	12.7432	0	0	0	20.9765	0	5.99209	0	0	0	0
+PENTOSE-P-PWY: pentose phosphate pathway	137.908	149.521	0	65.4473	564.592	235.485	90.8452	165.826	101.691	43.2133	78.5972	0	409.304	35.6649
+PENTOSE-P-PWY: pentose phosphate pathway|g__Synechococcus.s__Synechococcus_sp_BL107	0	4.93528	0	3.88959	0	0	0	16.1052	0	5.12429	10.6892	0	0	0
+PENTOSE-P-PWY: pentose phosphate pathway|g__Synechococcus.s__Synechococcus_sp_CC9902	0	6.65257	0	6.40386	133.851	0	0	27.1518	26.7226	6.8526	9.6752	0	0	3.54388
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)	0	16.4619	0	12.1562	0	0	0	0	0	6.38738	16.4733	0	0	2.20703
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	1.1748	0	0	0	0	0	0	0	0	0	0
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	3.22296	0	0	0	0	0	1.53085	0	0	0	0
+PHOSLIPSYN-PWY: superpathway of phospholipid biosynthesis I (bacteria)	0	17.3941	0	4.58817	0	0	0	0	0	0	4.22677	0	0	0
+PHOTOALL-PWY: oxygenic photosynthesis	415.207	461.475	0	224.529	1237.78	342.8	303.136	1355.47	122.978	52.0683	117.544	0	0	80.7309
+PHOTOALL-PWY: oxygenic photosynthesis|g__Synechococcus.s__Synechococcus_sp_CC9902	81.6132	93.8319	0	47.8527	273.156	0	52.3452	314.199	36.4175	11.9501	34.2205	0	0	25.0508
+POLYISOPRENSYN-PWY: polyisoprenoid biosynthesis (E. coli)	0	1.78758	0	0	0	0	0	11.5099	0	0	2.97527	0	0	6.7479
+PPGPPMET-PWY: ppGpp metabolism	0	0	0	2.89983	0	0	0	0	0	0	0	0	0	2.27201
+PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY: protocatechuate degradation II (ortho-cleavage pathway)	0	2.80053	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-101: photosynthesis light reactions	674.486	985.275	1102.29	320.167	1672.76	459.279	563.566	2599.1	190.374	98.966	207.043	440.127	1839.53	213.941
+PWY-101: photosynthesis light reactions|g__Corethron.s__Corethron_hystrix__216773	2.26913	3.77792	0	0.726165	4.06062	0	3.82174	9.07302	0	0	1.39486	0	0	0.651465
+PWY-101: photosynthesis light reactions|g__Cylindrotheca.s__Cylindrotheca_closterium__2856	5.67335	14.6169	0.742811	0.0658104	9.42078	0	4.7804	19.6062	0	0	0	34.1546	1.93782	0.878456
+PWY-101: photosynthesis light reactions|g__Prochlorococcus.s__Prochlorococcus_sp_MIT_0801	0	0	0	0	0	0	0	0	0	0	0	0	0	10.9065
+PWY-101: photosynthesis light reactions|g__Synechococcus.s__Synechococcus_sp_BL107	0	92.46	0	57.8616	0	0	0	281	0	24.9624	29.9727	0	0	0
+PWY-101: photosynthesis light reactions|g__Synechococcus.s__Synechococcus_sp_CC9902	201.925	190.187	0	122.404	758.235	222.745	132.228	704.037	64.6036	29.8717	55.8602	0	0	29.5137
+PWY-101: photosynthesis light reactions|g__Thalassiothrix.s__Thalassiothrix_antarctica__1049557	3.07535	1.76619	4.22209	0.27484	6.36586	0	0.955954	4.72317	0	0	0	0	26.1736	0.869444
+PWY-1042: glycolysis IV	162.317	209.632	139.014	129.534	1278.41	487.325	70.3979	418.478	105.128	36.306	153.31	342.851	758.073	66.6987
+PWY-1042: glycolysis IV|g__Alexandrium.s__Alexandrium_andersonii__327968	11.6063	4.38609	0	2.48335	0	22.9095	0	0	0	0	0	0	0	4.47306
+PWY-1042: glycolysis IV|g__Alexandrium.s__Alexandrium_catenella__2925	0.337269	1.2833	0	0.388734	4.87933	1.74672	0	1.58012	0	0	0	0	0	0.505246
+PWY-1042: glycolysis IV|g__Alexandrium.s__Alexandrium_margalefii__109239	1.13603	14.1414	0	0.729497	2.81219	4.63327	0.324681	25.015	1.22274	0.0566002	0	0	0	1.57519
+PWY-1042: glycolysis IV|g__Amphidinium.s__Amphidinium_carterae__2961	0	0.245578	0	0	1.51818	0	0	0	0	0	0	0	0	0.322219
+PWY-1042: glycolysis IV|g__Amphidinium.s__Amphidinium_massartii__160604	0	0	0	0	11.9091	0	0	0	0	0	0	0	0	0
+PWY-1042: glycolysis IV|g__Apocalathium.s__Apocalathium_aciculiferum__268820	1.49816	0	0	0.295471	0	0	1.30087	0	0.710473	0.121517	0	4.2679	0	0.965287
+PWY-1042: glycolysis IV|g__Azadinium.s__Azadinium_spinosum__632150	1.94971	1.6927	0	1.12363	3.39206	5.64932	0	3.88785	1.0727	0.0560083	0	0.58667	0	0.81354
+PWY-1042: glycolysis IV|g__Calcidiscus.s__Calcidiscus_leptoporus__127549	0	0	0	0	21.8858	1.45553	0	3.61114	0	0	0	7.15491	0	0
+PWY-1042: glycolysis IV|g__Chaetoceros.s__Chaetoceros_cf._neogracilis__1048532	0	0	0	0	0	0	0	0	0	0	0	0	0	0.441984
+PWY-1042: glycolysis IV|g__Chaetoceros.s__Chaetoceros_debilis__122233	0	0	0	0	4.00388	0	1.39811	0	0	0	0	0	0	0.383732
+PWY-1042: glycolysis IV|g__Chaetoceros.s__Chaetoceros_dichaeta__420782	0	0	0	0	29.1698	0	7.97757	0	0	0	0	0	47.4267	1.37389
+PWY-1042: glycolysis IV|g__Dactyliosolen.s__Dactyliosolen_fragilissimus__1118495	0	0	0	0	0	0	1.80019	0	0	0	0	0	0	0
+PWY-1042: glycolysis IV|g__Durinskia.s__Durinskia_baltica__400756	2.85355	1.22386	0	1.32386	2.98394	12.5118	0.996125	7.69538	5.68428	0.388652	0	7.35928	0	1.90974
+PWY-1042: glycolysis IV|g__Eucampia.s__Eucampia_antarctica__49252	0	0	0	0	6.79023	0	2.31885	0	0	0	0	0	0	0
+PWY-1042: glycolysis IV|g__Gambierdiscus.s__Gambierdiscus_australes__439317	4.30847	0.16161	0	0.116689	15.6402	9.79961	0	0	0	0	0	0	0	0.971978
+PWY-1042: glycolysis IV|g__Gonyaulax.s__Gonyaulax_spinifera__66791	0	0	0	0	0	0	0	0	0	0	0	0	0	8.36739
+PWY-1042: glycolysis IV|g__Gymnodinium.s__Gymnodinium_catenatum__39447	0.66209	0.836257	0	0.739745	6.51785	0	0	0	0.947625	0	0	0	0	2.61493
+PWY-1042: glycolysis IV|g__Helicotheca.s__Helicotheca_tamesis__374047	0	0	0	0	0	0	0.530606	0	0	0	0	0	0	0
+PWY-1042: glycolysis IV|g__Heterocapsa.s__Heterocapsa_arctica__192219	0	0.960207	0	0.0471671	5.67441	0	0	0	0	0	0	0	0	0.64368
+PWY-1042: glycolysis IV|g__Heterocapsa.s__Heterocapsa_rotundata__89963	10.9249	6.81648	0	2.43524	16.9778	1.75146	3.8875	7.54677	9.20709	1.20734	0	0	0	2.40505
+PWY-1042: glycolysis IV|g__Karlodinium.s__Karlodinium_veneficum__407301	7.32513	6.82093	0	3.20113	29.5886	23.3861	0.946933	8.09351	7.40266	0.165391	0	20.6359	0	3.43165
+PWY-1042: glycolysis IV|g__Kryptoperidinium.s__Kryptoperidinium_foliaceum__160619	9.1215	7.92517	0	2.11749	17.4932	14.07	1.33127	3.01805	6.00803	0.25069	0	3.71604	0	3.6781
+PWY-1042: glycolysis IV|g__Lingulodinium.s__Lingulodinium_polyedra__160621	3.89105	1.7954	0	1.88158	18.5753	17.8407	0	10.7068	0	0	0	0	0	3.70471
+PWY-1042: glycolysis IV|g__Pelagodinium.s__unclassified__766107	0.675534	1.329	0	1.25045	6.04497	32.4815	0	0.341857	1.07112	0	0	2.73445	0	0.347556
+PWY-1042: glycolysis IV|g__Polarella.s__Polarella_glacialis__89957	7.30116	4.47184	0	2.59023	23.4027	18.7585	1.81883	11.4448	3.9505	0.396749	0	6.51679	0	1.6599
+PWY-1042: glycolysis IV|g__Prymnesium.s__Prymnesium_parvum__97485	0	0	0	0.197444	1.5478	0	0	0	0	0	0.511868	0	0	0
+PWY-1042: glycolysis IV|g__Prymnesium.s__Prymnesium_polylepis__72548	0	0.542142	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-1042: glycolysis IV|g__Scrippsiella.s__Scrippsiella_trochoidea__71861	2.71197	0.782352	0	0	18.3265	4.6901	0	4.62389	0	0.327322	0	0	0	0.611384
+PWY-1042: glycolysis IV|g__Scyphosphaera.s__Scyphosphaera_apsteinii__418940	0	0	0	0	4.75279	0	0	3.76007	2.53662	0	3.78436	31.7935	0	0
+PWY-1042: glycolysis IV|g__Stephanopyxis.s__Stephanopyxis_turris__515487	0	0	0	0	0	0	0	0	0	0	0	0	13.829	0
+PWY-1042: glycolysis IV|g__Strombidinopsis.s__Strombidinopsis_sp.__181622	0	3.86171	0	0.621384	52.8365	0	0	10.12	0	0.399638	2.8637	0	45.4993	0.648962
+PWY-1042: glycolysis IV|g__Strombidium.s__Strombidium_inclinatum__197538	5.83172	20.0314	16.8453	5.31578	80.3786	0	9.57591	19.2011	0	0	5.66917	0	0	1.89418
+PWY-1042: glycolysis IV|g__Strombidium.s__Strombidium_rassoulzadegani__1082188	1.44335	5.74018	2.1999	1.33235	36.736	0	5.20544	15.7186	0	0	0	0	43.703	0
+PWY-1042: glycolysis IV|g__Symbiodinium.s__Symbiodinium_sp.__2950	0.7705	1.88203	0	0.541982	5.86421	0	0	1.44322	1.20335	0.256253	0	0	0	0.830046
+PWY-1042: glycolysis IV|g__Thalassionema.s__Thalassionema_frauenfeldii__186022	0	0	0	0	0	0	2.29567	0	0	0	0	0	0	0
+PWY-1042: glycolysis IV|g__Togula.s__Togula_jolla__285029	0	4.84524	0	0	1.20601	0	0	0	0	0	0	0	0	0.18694
+PWY-1042: glycolysis IV|g__Trieres.s__Trieres_chinensis__1514140	0	0	0	0	0	0	0	0	0	0	0	0	0	0.154825
+PWY-1042: glycolysis IV|g__unclassified.s__unclassified__1136790	0	6.00134	0	3.92871	0	0	0	0	0	0	2.33259	0	0	0
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis	11.5942	14.9695	0	11.958	40.4657	41.9531	0	56.6229	15.1435	4.90959	10.181	0	0	4.20732
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	0	0	0	0	13.4453	0	0	0	0	0	0
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	3.67865	0	0	0	0	0	0	0	0	0	0
+PWY-241: C4 photosynthetic carbon assimilation cycle, NADP-ME type	14.519	28.1843	0	15.6113	0	0	0	27.4244	0	0	14.2402	0	0	10.6521
+PWY-2942: L-lysine biosynthesis III	0	23.4918	0	10.988	0	0	0	40.5579	0	9.91717	22.4693	0	0	1.61068
+PWY-2942: L-lysine biosynthesis III|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	3.92924	0	0	0	0	0	1.97067	4.15024	0	0	0
+PWY-2942: L-lysine biosynthesis III|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	3.39402	0	0	0	0	0	2.04462	3.60667	0	0	0
+PWY-3001: superpathway of L-isoleucine biosynthesis I	0	58.6787	0	29.0033	0	0	0	92.1781	0	22.5159	66.9558	0	0	5.09053
+PWY-3781: aerobic respiration I (cytochrome c)	0	20.0276	0	0	0	0	0	0	0	4.76576	0	0	0	0
+PWY-3781: aerobic respiration I (cytochrome c)|g__Paracoccus.s__Paracoccus_sp._H4-D09__2812658	0	4.08712	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-3841: folate transformations II (plants)	59.4925	66.9193	0	46.9973	0	55.5944	0	62.5046	30.7478	14.2987	47.8035	0	87.9349	15.6611
+PWY-4041: &gamma;-glutamyl cycle	0	0	0	9.42464	0	0	0	0	0	0	0	0	0	0
+PWY-4984: urea cycle	2.62383	0	0	5.66527	34.7486	0	30.2948	12.3092	0	0	2.36414	0	0	1.70205
+PWY-5068: chlorophyll cycle	3.11041	0	0	0	0	0	0	12.0465	0	0	0	0	0	2.64096
+PWY-5097: L-lysine biosynthesis VI	0	31.1367	0	26.8436	71.0901	0	0	64.8889	0	14.101	30.1834	0	0	8.39811
+PWY-5097: L-lysine biosynthesis VI|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	4.86896	0	0	0	8.22501	0	2.06075	7.32314	0	0	0
+PWY-5097: L-lysine biosynthesis VI|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	4.72075	0	0	0	0	0	2.2677	4.97174	0	0	0
+PWY-5103: L-isoleucine biosynthesis III	123.704	150.699	0	117.565	303.805	54.249	137.608	224.77	114.488	44.7153	155.016	117.8	120.891	76.3965
+PWY-5103: L-isoleucine biosynthesis III|g__Synechococcus.s__Synechococcus_sp_BL107	0	12.1543	0	10.3376	0	0	0	13.9429	0	4.13789	7.30176	0	0	0
+PWY-5103: L-isoleucine biosynthesis III|g__Synechococcus.s__Synechococcus_sp_CC9902	0	8.68909	0	9.88851	0	0	0	11.6118	0	3.12094	10.4568	0	0	4.84513
+PWY-5121: superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)	0	17.9192	0	16.9784	0	0	0	15.8112	0	3.82342	16.9791	0	0	8.94942
+PWY-5136: fatty acid &beta;-oxidation II (plant peroxisome)	5.51774	20.8372	0	11.0759	0	0	0	0	19.363	0	14.0923	0	0	9.69897
+PWY-5136: fatty acid &beta;-oxidation II (plant peroxisome)|g__Alexandrium.s__Alexandrium_andersonii__327968	0	0	0	0	0	0	0	0	0	0	0	0	0	0.851159
+PWY-5136: fatty acid &beta;-oxidation II (plant peroxisome)|g__Coremiostelium.s__Coremiostelium_polycephalum__142831	0	1.92122	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5136: fatty acid &beta;-oxidation II (plant peroxisome)|g__Scrippsiella.s__Scrippsiella_trochoidea__71861	0	0	0	0	0	0	0	0	0	0	0	0	0	3.01027
+PWY-5154: L-arginine biosynthesis III (via N-acetyl-L-citrulline)	12.8362	26.9219	0	9.78581	58.6436	0	0	62.6567	17.328	9.41331	18.1203	0	0	10.5508
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)	16.4798	51.6347	0	46.9867	151.24	93.3366	0	49.1747	26.8939	22.2461	57.2249	0	161.692	29.2881
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Synechococcus.s__Synechococcus_sp_BL107	0	10.4659	0	7.59071	0	0	0	8.78861	0	2.72841	10.2367	0	0	0
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Synechococcus.s__Synechococcus_sp_CC9902	11.2317	6.00432	0	11.6543	65.0612	0	0	33.4538	0	4.23613	14.8449	0	0	6.55147
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)	21.9756	23.4566	0	40.3272	65.685	0	0	33.9913	17.5178	7.41695	44.5653	0	0	12.7168
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|g__Synechococcus.s__Synechococcus_sp_BL107	0	2.35025	0	1.38466	0	0	0	4.08903	0	0.93307	0	0	0	0
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|g__Synechococcus.s__Synechococcus_sp_CC9902	0	3.59738	0	6.40848	50.4967	0	0	24.8727	0	3.43384	0	0	0	2.81254
+PWY-5345: superpathway of L-methionine biosynthesis (by sulfhydrylation)	0	0	0	19.4322	0	0	0	0	0	12.6759	26.3754	0	0	6.35227
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)	11.7315	16.8928	0	4.77008	70.5398	38.006	13.7537	36.5263	15.5601	4.86136	8.31215	0	96.4213	7.2963
+PWY-5484: glycolysis II (from fructose 6-phosphate)	62.4626	81.2334	0	68.4579	285.195	116.967	0	149.292	81.2578	33.0029	118.628	129.306	0	42.4646
+PWY-5505: L-glutamate and L-glutamine biosynthesis	0	0	0	0	0	0	0	0	0	0	0	0	0	1.76108
+PWY-5531: 3,8-divinyl-chlorophyllide a biosynthesis II (anaerobic)	0	9.00477	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-561: superpathway of glyoxylate cycle and fatty acid degradation	12.7966	32.8297	0	18.3787	0	0	0	0	27.9177	0	19.6207	0	0	9.88392
+PWY-5659: GDP-mannose biosynthesis	37.2691	96.0507	30.2181	46.9067	0	104.687	24.1363	60.675	35.8049	4.54591	22.4085	53.9279	54.9114	27.0117
+PWY-5659: GDP-mannose biosynthesis|g__Durinskia.s__Durinskia_baltica__400756	0	0	0	0.0526644	0	0.470629	0	0	0	0	0	0	0	0
+PWY-5659: GDP-mannose biosynthesis|g__Heterocapsa.s__Heterocapsa_rotundata__89963	0	1.23898	0	0	0	0	0	0	3.38839	0	0	0	0	0.0468606
+PWY-5659: GDP-mannose biosynthesis|g__Kryptoperidinium.s__Kryptoperidinium_foliaceum__160619	0.228852	0	0	0.102883	0	2.32313	0	0	0	0	0	0	0	0
+PWY-5659: GDP-mannose biosynthesis|g__Ostreococcus.s__Ostreococcus_sp._'lucimarinus'__242159	0	16.5337	0	6.71627	0	0	0	0	0	0	0	0	0	0
+PWY-5659: GDP-mannose biosynthesis|g__Stephanopyxis.s__Stephanopyxis_turris__515487	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0218529
+PWY-5659: GDP-mannose biosynthesis|g__Thalassiosira.s__Thalassiosira_punctigera__265564	0	0	0	0	0	0	0	0	0	0	0	0	0	0.108024
+PWY-5667: CDP-diacylglycerol biosynthesis I	0	24.1121	47.2288	10.7695	0	0	59.3893	0	0	0	11.1999	0	0	8.24057
+PWY-5686: UMP biosynthesis I	31.9696	50.2541	0	30.0334	49.7958	39.7255	20.8097	0	18.1501	14.4856	32.2445	0	0	11.7359
+PWY-5686: UMP biosynthesis I|g__Synechococcus.s__Synechococcus_sp_BL107	0	6.13827	0	0	0	0	0	0	0	3.34005	9.46961	0	0	0
+PWY-5686: UMP biosynthesis I|g__Synechococcus.s__Synechococcus_sp_CC9902	0	3.71643	0	4.88275	0	0	0	0	0	2.40477	9.16923	0	0	2.35771
+PWY-5695: inosine 5'-phosphate degradation	62.5001	55.5645	39.7989	46.7211	84.7792	107.082	11.7515	133.922	0	17.4298	63.0023	0	107.876	20.884
+PWY-5723: Rubisco shunt	433.216	422.404	273.687	177.17	895.074	289.016	249.978	661.168	139.765	42.5078	191.492	122.192	632.629	104.611
+PWY-5723: Rubisco shunt|g__Odontella.s__Odontella_aurita__265563	0.184717	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5723: Rubisco shunt|g__Synechococcus.s__Synechococcus_sp_BL107	0	23.1854	0	15.3203	0	0	0	43.6016	0	5.37192	22.4875	0	0	0
+PWY-5723: Rubisco shunt|g__Synechococcus.s__Synechococcus_sp_CC9902	34.7953	29.5462	0	23.0583	147.731	0	23.4867	85.2779	29.9585	5.91741	19.9973	0	0	8.19839
+PWY-5855: ubiquinol-7 biosynthesis (early decarboxylation)	0	6.60363	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5873: ubiquinol-7 biosynthesis (late decarboxylation)	0	0	59.997	4.79995	39.8958	0	0	0	10.537	0.915559	3.70915	0	0	5.46575
+PWY-5873: ubiquinol-7 biosynthesis (late decarboxylation)|g__Bathycoccus.s__Bathycoccus_prasinos__41875	0	0	0	1.48986	15.7263	0	0	0	0	0	0	0	0	3.19067
+PWY-5910: superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)	0	2.24173	0	0	0	0	0	0	0	0	0	0	0	3.68767
+PWY-5913: partial TCA cycle (obligate autotrophs)	15.6567	30.6663	0	36.115	91.3432	0	0	71.4724	26.5235	16.7978	52.0871	0	37.2344	19.2147
+PWY-5913: partial TCA cycle (obligate autotrophs)|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	4.928	0	0	0	0	0	2.06781	4.78366	0	0	0
+PWY-5913: partial TCA cycle (obligate autotrophs)|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	5.76722	0	0	0	0	0	1.86628	9.43347	0	0	0
+PWY-5918: superpathway of heme b biosynthesis from glutamate	23.2845	64.3687	0	38.7177	110.361	36.7851	0	67.0352	25.6245	8.99327	16.3426	0	77.0917	25.4067
+PWY-5918: superpathway of heme b biosynthesis from glutamate|g__Synechococcus.s__Synechococcus_sp_BL107	0	4.7469	0	2.89834	0	0	0	7.48442	0	1.59941	0	0	0	0
+PWY-5918: superpathway of heme b biosynthesis from glutamate|g__Synechococcus.s__Synechococcus_sp_CC9902	0	5.71285	0	9.05046	61.1595	0	0	30.6367	0	3.07861	0	0	0	4.20215
+PWY-5920: superpathway of heme b biosynthesis from glycine	32.3352	38.153	0	34.7554	0	0	0	55.2339	20.228	6.63826	13.557	0	0	16.4683
+PWY-5941: glycogen degradation II	13.6027	25.3893	0	21.9881	0	0	0	0	0	13.8442	13.0382	0	0	7.7636
+PWY-5941: glycogen degradation II|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	1.75913	0	0	0	0	0	2.40249	0	0	0	0
+PWY-5941: glycogen degradation II|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	0	0	0	0	0	0	5.9511	8.50757	0	0	0
+PWY-5972: stearate biosynthesis I (animals)	0	8.34495	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5973: cis-vaccenate biosynthesis	93.4718	92.8067	32.8252	19.1499	212.226	42.5762	49.3087	142.899	23.1728	14.8212	69.5077	76.3125	103.976	37.4898
+PWY-5973: cis-vaccenate biosynthesis|g__Prochlorococcus.s__Prochlorococcus_sp_MIT_0801	0	0	0	0	0	0	0	0	0	0	0	0	0	3.97787
+PWY-5981: CDP-diacylglycerol biosynthesis III	0	21.5091	0	15.8059	0	0	0	0	0	0	16.0605	0	0	0
+PWY-5989: stearate biosynthesis II (bacteria and plants)	19.066	15.6937	0	0	0	0	0	0	0	0	0	0	0	14.2581
+PWY-5995: linoleate biosynthesis I (plants)	8.00202	8.06714	0	0	0	0	0	11.3024	0	0	0	0	0	0
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I	11.4237	38.2081	0	40.3532	0	82.268	0	39.2993	16.0659	14.4604	62.4765	0	0	11.5355
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Synechococcus.s__Synechococcus_sp._BS30m-G31__2781772	0	0	0	6.39779	0	0	0	0	0	3.18309	0	0	0	3.28202
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Synechococcus.s__Synechococcus_sp_BL107	0	3.98031	0	5.457	0	0	0	0	0	2.04137	9.59216	0	0	0
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Synechococcus.s__Synechococcus_sp_CC9902	0	5.51932	0	4.369	0	0	0	21.1435	0	1.47821	1.37829	0	0	0
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II	19.7946	57.1595	0	58.2866	0	88.9975	0	97.3897	24.1448	25.9298	87.9537	53.6041	87.1293	16.1499
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Synechococcus.s__Synechococcus_sp._BS30m-G31__2781772	0	0	0	8.08713	0	0	0	0	9.68665	4.06492	0	0	0	3.52756
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Synechococcus.s__Synechococcus_sp_BL107	0	5.67058	0	8.10294	0	0	0	4.65317	0	2.62185	11.6249	0	0	0
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Synechococcus.s__Synechococcus_sp_CC9902	0	5.75418	0	7.07363	0	0	0	21.6054	0	8.17346	18.4677	0	0	0
+PWY-6123: inosine-5'-phosphate biosynthesis I	57.5058	83.3686	0	55.6849	107.669	47.8594	31.7258	78.9848	43.5455	23.4135	63.9679	0	0	24.4945
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Formosa.s__Formosa_sp.__2018467	0	0	0	0	0	0	0	0	0	0	9.89215	0	0	0
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Synechococcus.s__Synechococcus_sp._BS30m-G31__2781772	0	0	0	0	0	0	0	0	0	0	0	0	0	2.44163
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Synechococcus.s__Synechococcus_sp_BL107	0	5.08392	0	4.62782	0	0	0	0	0	2.60827	7.03465	0	0	0
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Synechococcus.s__Synechococcus_sp_CC9902	0	7.71501	0	8.86424	46.4818	0	0	11.8094	0	4.16835	11.1523	0	0	0
+PWY-6124: inosine-5'-phosphate biosynthesis II	59.271	80.1761	0	59.3585	89.1233	38.2859	32.2147	76.0629	46.5198	21.1346	62.7967	0	0	28.7682
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Synechococcus.s__Synechococcus_sp_BL107	0	5.14926	0	4.48122	0	0	0	0	0	2.11717	7.1663	0	0	0
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Synechococcus.s__Synechococcus_sp_CC9902	9.487	7.6424	0	10.4031	0	0	0	0	0	3.33883	11.5601	0	0	5.38876
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II	81.1106	108.407	15.7069	77.1697	279.857	0	0	125.121	66.8036	44.3089	137.066	0	0	39.2441
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II	118.905	208.56	212.989	154.35	505.615	157.721	123.328	318.443	115.498	42.3186	114.274	124.103	390.425	104.87
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Durinskia.s__Durinskia_baltica__400756	0.739678	2.78367	0	0.96725	0	0	0.568809	0	0	0	0	0	4.43839	0.347248
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Kryptoperidinium.s__Kryptoperidinium_foliaceum__160619	0	0	0	0	0	0	0	0	0	0	0	0	0	0.73019
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Togula.s__Togula_jolla__285029	0	0	0	0	0	0	0	0	0	0	0	0	0	0.729095
+PWY-6151: S-adenosyl-L-methionine salvage I	0	0	0	7.53592	0	0	0	0	0	0	0	0	0	3.22763
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate	40.6346	44.059	0	36.0106	94.9564	47.1867	0	64.9874	15.2085	7.43515	43.4773	0	0	7.29112
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Synechococcus.s__Synechococcus_sp_BL107	0	7.98388	0	2.29706	0	0	0	0	0	0	9.59631	0	0	0
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Synechococcus.s__Synechococcus_sp_CC9902	0	5.24506	0	9.00811	0	0	0	0	10.1027	2.96932	11.5232	0	0	2.05927
+PWY-621: sucrose degradation III (sucrose invertase)	0	11.6708	0	4.0275	0	0	0	26.5298	0	5.16315	9.23359	0	0	7.27402
+PWY-6270: isoprene biosynthesis I	0	31.2799	0	21.5784	0	0	0	0	0	4.81823	20.6334	0	0	5.31862
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis	19.7946	57.1595	0	58.2866	0	88.9975	0	97.3897	24.1448	25.9298	87.9537	53.6041	87.1293	16.1499
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Synechococcus.s__Synechococcus_sp._BS30m-G31__2781772	0	0	0	8.08713	0	0	0	0	9.68665	4.06492	0	0	0	3.52756
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Synechococcus.s__Synechococcus_sp_BL107	0	5.67058	0	8.10294	0	0	0	4.65317	0	2.62185	11.6249	0	0	0
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Synechococcus.s__Synechococcus_sp_CC9902	0	5.75418	0	7.07363	0	0	0	21.6054	0	8.17346	18.4677	0	0	0
+PWY-6281: L-selenocysteine biosynthesis II (archaea and eukaryotes)	0	12.9645	0	8.5342	65.6301	0	0	0	0	5.14505	19.67	0	0	4.67378
+PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)	21.9299	18.3387	0	0	0	0	0	77.5192	0	0	0	0	0	18.0379
+PWY-6292: superpathway of L-cysteine biosynthesis (mammalian)	185.575	90.7249	43.9746	44.4178	184.401	62.5696	297.766	20.6572	26.702	13.8055	38.7359	62.9803	1516.94	46.3783
+PWY-6292: superpathway of L-cysteine biosynthesis (mammalian)|g__Ammonia.s__Ammonia_sp.__43993	11.1833	0	0	0	0	0	4.94979	0	0	0	0	40.9591	0	1.54111
+PWY-6292: superpathway of L-cysteine biosynthesis (mammalian)|g__Astrosyne.s__Astrosyne_radiata__1158023	0	0.182768	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6292: superpathway of L-cysteine biosynthesis (mammalian)|g__Chattonella.s__Chattonella_subsalsa__44440	0	0	0	0.77166	0	0	0	0	0	0	0	0	0	0
+PWY-6292: superpathway of L-cysteine biosynthesis (mammalian)|g__Coremiostelium.s__Coremiostelium_polycephalum__142831	0	9.46071	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6292: superpathway of L-cysteine biosynthesis (mammalian)|g__Hydrurus.s__Hydrurus_foetidus__2996	0	0	0	0.306442	0	0	0	0	0	0	0	0	0	0
+PWY-6292: superpathway of L-cysteine biosynthesis (mammalian)|g__Mallomonas.s__Mallomonas_sp.__2003107	0	0	0	0.64072	0	0	0	0	0	0	0	0	0	0
+PWY-6292: superpathway of L-cysteine biosynthesis (mammalian)|g__Microchloropsis.s__Microchloropsis_salina__1027361	0	0	0	0.353614	0	0	0	0	0	0	0	0	0	0
+PWY-6292: superpathway of L-cysteine biosynthesis (mammalian)|g__Partenskyella.s__Partenskyella_glossopodia__552666	0	0	0	0.386196	0	0	0	0	0	0	0	0	0	0
+PWY-6292: superpathway of L-cysteine biosynthesis (mammalian)|g__Schmidingerella.s__Schmidingerella_taraikaensis__626734	12.3811	7.1962	0	3.43776	0	28.5531	0	0	0	2.75727	0	0	0	3.68306
+PWY-6292: superpathway of L-cysteine biosynthesis (mammalian)|g__Strombidinopsis.s__Strombidinopsis_sp.__181622	7.4696	3.72635	0	4.35966	0	4.79686	0	0	0	1.47179	0	0	0	4.63177
+PWY-6292: superpathway of L-cysteine biosynthesis (mammalian)|g__Strombidium.s__Strombidium_inclinatum__197538	7.39078	5.44314	0	4.15205	0	0	0	0	0	2.67353	0	0	0	1.87034
+PWY-6292: superpathway of L-cysteine biosynthesis (mammalian)|g__Strombidium.s__Strombidium_rassoulzadegani__1082188	4.36121	5.18278	0	3.71982	0	13.2305	0	0	0	2.44897	0	0	0	1.90724
+PWY-6293: superpathway of L-cysteine biosynthesis (fungi)	0	15.5443	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6305: superpathway of putrescine biosynthesis	0	0	0	3.75504	27.1868	0	0	0	0	0	1.87129	0	0	0
+PWY-6317: D-galactose degradation I (Leloir pathway)	4.87938	4.35663	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6352: 3-phosphoinositide biosynthesis	19.491	14.1796	0	6.13579	0	0	16.8517	0	0	0	0	0	69.0984	0
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)	0	16.7296	0	11.8987	0	0	0	0	0	6.37111	16.6773	0	0	2.20574
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	1.18352	0	0	0	0	0	0	0	0	0	0
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	3.39027	0	0	0	0	0	1.56897	0	0	0	0
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)	0	18.242	0	8.02027	62.4398	0	0	0	0	5.93371	16.3228	0	0	2.72331
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)	0	15.4415	0	11.6642	51.0045	0	0	0	0	6.03863	18.4922	0	0	2.56314
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	0.994611	0	0	0	0	0	0	0	0	0	0
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	3.21289	0	0	0	0	0	1.44019	0	0	0	0
+PWY-6519: 8-amino-7-oxononanoate biosynthesis I	0	16.1784	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6545: pyrimidine deoxyribonucleotides de novo biosynthesis III	0	18.2476	0	22.7014	213.062	0	0	69.8375	0	30.8834	53.537	0	0	9.39513
+PWY-6549: L-glutamine biosynthesis III	31.7131	51.9467	0	36.906	0	0	0	51.7311	0	0	59.8635	0	0	17.4002
+PWY-6609: adenine and adenosine salvage III	0	15.528	773.826	10.712	114.869	0	0	0	0	6.73836	18.9462	0	35.7627	8.97564
+PWY-6609: adenine and adenosine salvage III|g__Eurytemora.s__Eurytemora_affinis__88015	0	0	522.739	0	0	0	0	0	0	0	0	0	0	0
+PWY-6609: adenine and adenosine salvage III|g__unclassified.s__unclassified__72037	0	0	80.0837	0	0	0	0	0	0	0	0	0	0	0
+PWY-6628: superpathway of L-phenylalanine biosynthesis	0	0	0	0	0	0	0	0	0	5.94612	33.1986	0	0	4.69798
+PWY-6628: superpathway of L-phenylalanine biosynthesis|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	0	0	0	0	0	0	0	7.23806	0	0	0
+PWY-6628: superpathway of L-phenylalanine biosynthesis|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	0	0	0	0	0	0	2.2061	9.56116	0	0	0
+PWY-6630: superpathway of L-tyrosine biosynthesis	0	0	0	0	0	0	0	0	0	5.8461	26.5417	0	0	4.51425
+PWY-6630: superpathway of L-tyrosine biosynthesis|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	0	0	0	0	0	0	0	7.2091	0	0	0
+PWY-6630: superpathway of L-tyrosine biosynthesis|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	0	0	0	0	0	0	2.56402	8.27741	0	0	0
+PWY-6641: superpathway of sulfolactate degradation	0	0	0	5.81201	0	0	0	0	0	3.68832	0	0	0	2.61957
+PWY-6700: queuosine biosynthesis I (de novo)	10.0974	26.8728	0	18.7006	0	0	0	38.863	13.9368	11.6219	48.3354	0	0	7.0538
+PWY-6700: queuosine biosynthesis I (de novo)|g__Formosa.s__Formosa_sp.__2018467	8.14721	4.77012	0	5.00071	0	0	0	0	0	0	0	0	0	0
+PWY-6700: queuosine biosynthesis I (de novo)|g__Pseudomonas.s__Pseudomonas_fluorescens_group	0	5.21408	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6700: queuosine biosynthesis I (de novo)|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	1.45945	0	0	0	0	0	1.21068	6.45964	0	0	0
+PWY-6700: queuosine biosynthesis I (de novo)|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	1.39882	0	0	0	0	0	2.07319	5.71859	0	0	0
+PWY-6703: preQ0 biosynthesis	10.3781	12.6362	0	6.36782	0	0	0	21.4988	0	4.89915	19.1177	0	0	0
+PWY-6703: preQ0 biosynthesis|g__Pseudomonas.s__Pseudomonas_simiae__321846	0	0	0	0	0	0	0	7.01553	0	0	0	0	0	0
+PWY-6703: preQ0 biosynthesis|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	0	0	0	0	0	0	2.25739	7.27506	0	0	0
+PWY-6703: preQ0 biosynthesis|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	0	0	0	0	0	0	2.37865	10.2324	0	0	0
+PWY-6823: molybdopterin biosynthesis	0	7.01093	0	10.8754	0	0	0	19.7278	0	7.2146	24.3375	0	0	0
+PWY-6823: molybdopterin biosynthesis|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	0	0	0	0	0	0	1.88821	1.56468	0	0	0
+PWY-6823: molybdopterin biosynthesis|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	0	0	0	0	0	0	1.57468	2.85367	0	0	0
+PWY-6859: all-trans-farnesol biosynthesis	0	0.979982	0	0	0	0	0	6.88862	0	0	1.68264	0	0	5.70186
+PWY-6922: L-N&delta;-acetylornithine biosynthesis	3.39855	0	0	6.73985	46.7464	0	9.27626	15.0604	0	0	2.87007	0	0	2.11148
+PWY-6936: seleno-amino acid biosynthesis (plants)	0	0	0	9.00424	0	0	0	0	0	3.78119	6.77995	0	0	5.87435
+PWY-6969: TCA cycle V (2-oxoglutarate synthase)	57.5263	86.3553	0	62.3395	102.696	0	90.3626	103.353	70.8669	15.336	79.0836	10.3175	181.853	19.4822
+PWY-702: L-methionine biosynthesis II	0	0	0	9.73902	0	0	0	0	0	4.28753	9.71439	0	0	6.20756
+PWY-7111: pyruvate fermentation to isobutanol (engineered)	79.8593	45.8751	0	31.3385	0	0	134.926	40.1363	0	6.8668	140.864	176.531	0	43.5383
+PWY-7117: C4 photosynthetic carbon assimilation cycle, PEPCK type	19.2283	37.4008	0	22.9722	0	0	0	75.9789	0	9.62076	15.217	0	0	18.1099
+PWY-7159: 3,8-divinyl-chlorophyllide a biosynthesis III (aerobic, light independent)	65.2125	109.869	36.7585	44.6606	63.9326	28.1779	59.6366	141.667	33.2913	8.05409	43.666	0	61.8898	26.4876
+PWY-7159: 3,8-divinyl-chlorophyllide a biosynthesis III (aerobic, light independent)|g__Prochlorococcus.s__Prochlorococcus_sp_MIT_0801	0	0	0	0	0	0	0	0	0	0	0	0	0	2.33996
+PWY-7159: 3,8-divinyl-chlorophyllide a biosynthesis III (aerobic, light independent)|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	9.51694	0	0	0	13.5612	0	0	0	0	0	0
+PWY-7159: 3,8-divinyl-chlorophyllide a biosynthesis III (aerobic, light independent)|g__Synechococcus.s__Synechococcus_sp_CC9902	0	12.1705	0	6.31899	0	0	0	29.298	0	0	0	0	0	4.70292
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I	0	18.6609	0	22.1643	179.55	0	0	67.7557	0	22.2302	48.8069	0	0	8.89956
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation	0	8.82857	0	11.1908	164.225	0	0	38.2059	0	21.5747	28.5595	0	0	2.79381
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Synechococcus.s__Synechococcus_sp_BL107	0	5.07105	0	10.029	0	0	0	0	0	7.41547	12.2218	0	0	0
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Synechococcus.s__Synechococcus_sp_CC9902	0	3.46852	0	0	54.6858	0	0	0	0	3.31053	11.7553	0	0	0
+PWY-7198: pyrimidine deoxyribonucleotides de novo biosynthesis IV	0	10.7987	0	4.90476	0	0	0	0	0	0	0	0	0	5.3419
+PWY-7199: pyrimidine deoxyribonucleosides salvage	0	0	0	0	0	0	0	56.321	0	0	0	0	0	0
+PWY-7208: superpathway of pyrimidine nucleobases salvage	142.709	139.298	0	83.321	397.32	142.266	73.2047	311.191	107.411	39.0286	142.784	323.49	776.361	47.2302
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Amphidinium.s__Amphidinium_carterae__2961	0	0.347892	0	0	0	0	0	0	0	0	0	0	0	0.0268611
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Amphidinium.s__Amphidinium_massartii__160604	0	0.473107	0	0.519268	0	0	0	0	0	0	0	0	0	0.0275209
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Durinskia.s__Durinskia_baltica__400756	0.521773	0.654932	0	0.380176	0	0	0	1.32746	0	0	0	0	0	0.605231
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Gymnodinium.s__Gymnodinium_catenatum__39447	1.76786	0.636024	0	1.29133	0	0	0	0	0	0.250381	0.394325	0	0	0.689329
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Kryptoperidinium.s__Kryptoperidinium_foliaceum__160619	2.33967	0	0	0.755881	0	0	0	2.94962	1.92863	0	0	0	0	0
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Micromonas.s__unclassified__38832	0	0	0	2.53216	0	0	0	0	0	0	6.00489	0	0	0
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Noctiluca.s__Noctiluca_scintillans__2966	0	0	0	0.47115	0	0	0	1.92547	0	0.400296	1.86286	0	0	0
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Ostreococcus.s__Ostreococcus_sp._'lucimarinus'__242159	8.20128	12.8825	0	3.77352	106.262	0	0	63.888	13.9396	9.80368	25.0985	0	177.941	9.34017
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	3.13695	0	0	0	12.3486	0	2.25172	9.86707	0	0	0
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Synechococcus.s__Synechococcus_sp_CC9902	0	8.64815	0	9.39702	0	0	0	32.1465	0	5.1109	10.4156	0	0	0
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Thalassiosira.s__Thalassiosira_punctigera__265564	0	0	0	0	0	0	0	0	0	0	0	0	0	0.161304
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__unclassified.s__unclassified__41302	0	0	0	1.5938	0	0	0	0	0	0	0	0	0	0
+PWY-7209: superpathway of pyrimidine ribonucleosides degradation	0	3.56089	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7210: pyrimidine deoxyribonucleotides biosynthesis from CTP	0	0	0	0	0	0	0	0	0	0	0	0	0	4.35613
+PWY-7211: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis	0	25.7913	0	27.4827	0	0	0	0	0	19.8506	45.3987	0	0	8.32549
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II	1723.75	1577.31	2104.34	827.12	3837.67	2006.41	977.571	2509.35	1504.04	320.966	1271.45	4383.27	6193.03	659.817
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Aequorivita.s__Aequorivita_sp._HC6-5__1156267	29.6855	15.9046	0	17.7245	57.2697	0	14.1883	37.1103	0	11.2337	19.6333	70.666	109.323	8.03276
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Ammonia.s__Ammonia_sp.__43993	0	5.40209	0	0.9033	65.3586	0	5.74003	0	0	0	0	0	0	2.53327
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Amphidinium.s__Amphidinium_carterae__2961	5.19486	5.67704	5.37379	2.32295	14.7992	0	0	9.99493	0	0.552053	4.34199	0	0	4.01764
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Amphidinium.s__Amphidinium_massartii__160604	6.39107	3.14692	10.6155	4.20188	7.46192	0	0	13.274	0	0.193563	4.96557	0	0	4.10814
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Amphiprora.s__Amphiprora_paludosa__265537	0.126189	1.27361	0	0	0	0	0	0	0	0	0	0	0	0.0148964
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Amphiprora.s__Amphiprora_sp.__2608610	0	0.123379	0	0.199769	0.897572	0	0	1.02406	0	0.0395722	0	0	4.4605	0.00353863
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Amphora.s__Amphora_coffeiformis__265554	0	0	0	0	0	0	0	5.63935	0	0	0	0	0	0.185375
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Aristerostoma.s__Aristerostoma_sp.__2710916	0	0	0	0.409614	0	0	0	0	0	0	0	0	0	0.0788659
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Asterionella.s__Asterionella_formosa__210441	0	0.0790535	0	0.0101196	0	0	0	0	0	0	0	0	0	0.0568962
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Asterionellopsis.s__Asterionellopsis_glacialis__33640	0	0.478037	0	0.14237	0	0	1.00125	0.0305867	0	0	0	0	0	0.142988
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Astrosyne.s__Astrosyne_radiata__1158023	0	1.33544	0	0	0	0	0	0.964232	0	0.30708	0	0	0	0.0156994
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Attheya.s__Attheya_septentrionalis__420275	0	0.472139	0	0.254599	0	0	0.337696	0	0	0	0	0	0	0.157178
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Aulacoseira.s__Aulacoseira_subarctica__202472	0.305535	0.287628	0	0.0217937	0.124475	0	0	0.334452	0	0	0	0	0	0.238729
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bathycoccus.s__Bathycoccus_prasinos__41875	1.16683	0	0	0.818476	26.1249	25.8104	5.42794	5.10091	8.71004	4.13732	9.07233	51.1221	69.4672	0.505932
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bathycoccus.s__unclassified__41874	1.55671	0	0	1.02859	50.2849	23.8289	1.52193	16.2296	8.30515	5.9532	7.25967	70.608	72.0796	0.160917
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Calcidiscus.s__Calcidiscus_leptoporus__127549	0	1.01652	0	0.5453	2.62558	0	0	0	0.73336	0	0	0	5.2398	0.180077
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Chaetoceros.s__Chaetoceros_cf._neogracilis__1048532	0	0.00716839	0	0	0	0	0	0	0	0	0	0	0	0.0299064
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Chaetoceros.s__Chaetoceros_debilis__122233	0	0.0072619	0	0	0	0	1.21982	1.47493	0	0	0	0	0	0.133332
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Chaetoceros.s__Chaetoceros_dichaeta__420782	0	1.42591	0	0.425681	0	0	1.80941	2.56348	0	0.598566	0	0	0	0.162988
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Chattonella.s__Chattonella_subsalsa__44440	1.68592	4.45392	0	1.28449	3.79931	0	0	1.48497	0	0	0	3.94261	24.7514	0.911084
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Chlorarachnion.s__Chlorarachnion_reptans__29199	2.91256	0.908284	0	0.843362	0	0	0	0	0	0	2.51321	16.6123	29.8793	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Chrysochromulina.s__Chrysochromulina_rotalis__412157	0	4.59891	0	2.58468	0	0	2.34053	0	0	0	0	0	0	1.90164
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Chrysochromulina.s__Chrysochromulina_tobinii__1460289	0	0.538865	0	0.122954	0	0	0	0	0	0	0	0	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Chrysoculter.s__Chrysoculter_rhomboideus__259385	0	0.438699	0	0.17854	0	0	0	0	0	0	0	0	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Coremiostelium.s__Coremiostelium_polycephalum__142831	0	0	0	0	0	0	0	0	0	0	4.62759	0	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Corethron.s__Corethron_hystrix__216773	0	0.445401	0	0	0	0	0	0.884019	0	0	0	0	1.1297	0.100741
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Coscinodiscus.s__Coscinodiscus_wailesii__671091	0	0.48537	0	0.100275	1.58475	0	0	0.0935945	0	0.071003	0	0	0	0.017363
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Craspedostauros.s__Craspedostauros_australis__1486917	0.652933	1.04165	0	0	0	5.07296	0	0	0	0	0	0	13.8681	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Crustomastix.s__Crustomastix_stigmatica__195967	0.100733	0.0237345	0	0.304318	0	0	0	0.0210818	0	0	0	0	0	0.057096
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Cryptomonas.s__Cryptomonas_curvata__233186	0	0	0	0	0	4.57206	0	0	0	0	0	0	0	0.123875
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Cylindrotheca.s__Cylindrotheca_closterium__2856	1.89144	0	0	0	0	1.31043	0	0.032651	0	0	0	0	8.81998	0.232352
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Dactyliosolen.s__Dactyliosolen_fragilissimus__1118495	0	0.417086	0	0.51875	0	0	0.771077	0.507696	0	0	0	0	0	0.100298
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Detonula.s__Detonula_confervacea__83371	0	0.0806673	0	0	1.01623	0	0	0.0408536	0	0	0.624116	0	0	0.0302986
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Durinskia.s__Durinskia_baltica__400756	4.1615	3.43468	1.23136	2.69954	7.66836	1.42881	1.74984	5.46767	2.24906	0	3.03065	18.7451	20.778	2.52557
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Entomoneis.s__Entomoneis_sp.__186043	0	0.874424	0	0.0852724	0	0	0	0.529991	0	0	0	0	9.40452	0.00517946
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Epipyxis.s__Epipyxis_sp._PR26KG__1825121	0	0.46723	0	0.221608	0.120924	0	0	1.50254	0	0	0	0	0	0.0510237
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Eucampia.s__Eucampia_antarctica__49252	0	0.412256	0	0.422306	0	0	0	2.65769	0	0.305573	0	0	0	0.599076
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Euplotes.s__Euplotes_harpa__151035	0	0	0	0	0	0	0	0	0	0	0	0	0	0.322953
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Exanthemachrysis.s__Exanthemachrysis_gayraliae__119497	0	0	0	0	0	0	2.75757	0	0	0	0	0	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Extubocellulus.s__Extubocellulus_spinifer__265572	0	0.456795	0	0.428984	0	0	1.59274	0	0	0	0	0	0	0.381955
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Fibrocapsa.s__Fibrocapsa_japonica__94617	0.276194	0.648047	0	0.5867	0	0	0	0	0	0	0	0	0	0.0619648
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Geminigera.s__Geminigera_cryophila__46947	30.1121	18.2756	22.6111	2.22878	1.11982	19.8703	0	0	50.1849	3.65802	16.821	0	0	5.71583
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Geminigera.s__unclassified__46946	3.06954	1.33436	0	0.72728	0	0	0	0	3.23283	0.141225	2.81491	16.7425	0	0.461632
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Grammatophora.s__Grammatophora_oceanica__210454	0.0313412	1.27067	0	0.227135	1.65632	1.03205	0	2.93288	0	0.105423	0	0	25.1275	0.0874024
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Gymnodinium.s__Gymnodinium_catenatum__39447	7.40009	6.7663	7.83149	2.74982	31.0577	0	0	6.87277	0	0.715724	7.85148	0	0	3.97293
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Haptolina.s__Haptolina_brevifila__156173	3.71983	2.1318	0	1.72467	2.59298	0	0	0	2.81821	0	4.26438	2.64459	5.99917	1.93705
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Hemiselmis.s__Hemiselmis_rufescens__77926	2.01744	1.6399	0	0.178565	0	0	0	0	0	0	0	0	0	0.00850732
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Hydrurus.s__Hydrurus_foetidus__2996	0	0	0	0	0	0	0	0	0	0	8.62723	0	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Kryptoperidinium.s__Kryptoperidinium_foliaceum__160619	7.14976	13.7414	16.2811	0.811526	0	1.28442	10.8871	3.20279	3.6321	0.706529	6.36446	20.1217	13.2043	1.25473
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Licmophora.s__Licmophora_paradoxa__515479	0	0.0384455	0	0.0765062	0.174869	0	0	1.13779	0	0.0497546	0	0	0	0.065871
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Mallomonas.s__Mallomonas_sp.__2003107	0	0	0	0	0	0	0	0	0	0	0	0	0	0.418683
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Micromonas.s__Micromonas_pusilla__38833	0	0	0	0.533092	0	0	0	0	0	0	0	0	0	0.219587
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Micromonas.s__unclassified__38832	0.94509	0.937839	0	1.01438	0	0	0	3.83582	5.37904	0.859082	1.58766	27.3085	27.9767	0.423371
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Minutocellus.s__Minutocellus_polymorphus__265543	0	0.368573	0	0.564146	0	0	0.0438512	0.341483	0	0	0	0	0	0.664534
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Noctiluca.s__Noctiluca_scintillans__2966	17.6817	13.159	21.8045	5.7941	45.9146	0	0	20.4799	0	1.95701	14.0411	0	0	6.15139
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Ostreococcus.s__Ostreococcus_sp._'lucimarinus'__242159	5.21725	6.4834	11.4376	2.09412	95.9787	36.0042	3.84107	161.118	32.2325	12.7337	3.99304	36.473	345.683	0.26196
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Paraphysomonas.s__Paraphysomonas_bandaiensis__89770	17.9314	13.8373	0	18.7224	0	0	0	63.307	0	8.65046	23.2591	15.9278	0	6.82176
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Pelagococcus.s__Pelagococcus_subviridis__35679	0	0	7.23414	0	0	0	0	0	10.7476	2.43434	7.87005	0	0	3.50654
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Platyophrya.s__Platyophrya_macrostoma__938130	0	0	0	0	0	0	0	0	0	0	0	0	0	0.588406
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Prymnesium.s__Prymnesium_polylepis__72548	0	0.992444	0	0.583496	0	0	0	0	0	0	0	0	0	0.695554
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Pseudictyota.s__Pseudictyota_dubia__2749911	0	0.806085	0	0.134647	0	0	1.20367	0.0379726	0	0	0	0	0	0.204174
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Pseudokeronopsis.s__Pseudokeronopsis_sp.__1634380	2.71313	5.14481	0	3.9005	20.3481	4.99776	0	6.17116	4.94673	0.938798	6.45704	0	10.4827	1.6101
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Pseudomonas.s__Pseudomonas_aeruginosa__287	0	5.3373	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Rhodobacterales_unclassified.s__Rhodobacterales_bacterium_HTCC2255	0	0	0	0	0	0	0	0	0	0	7.0449	0	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Rhodomonas.s__Rhodomonas_abbreviata__46948	0	0	0	0	0	0	0	0	0	0	0	0	0	0.293367
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Rhodomonas.s__Rhodomonas_lens__354590	0	0	0	0	0	0	0	0	0	0	0	0	0	0.955221
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Schmidingerella.s__Schmidingerella_taraikaensis__626734	11.172	8.97396	10.5691	2.70262	0	26.0257	16.6589	0	4.20606	5.53995	19.0785	30.6918	48.0931	11.3458
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Scyphosphaera.s__Scyphosphaera_apsteinii__418940	0	2.10249	0	1.13302	0	0	0	0	0	0	0	0	0	0.821552
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Shewanella.s__Shewanella_frigidimarina__56812	0	2.18325	0	0.176863	0	0	0	0	0	0	0	0	0	0.530271
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Sorites.s__Sorites_sp.__126664	0	4.03528	0.844782	0.121141	3.93506	0	1.73042	0	0	0.0674033	0.718966	5.75058	0	0.136817
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Stephanopyxis.s__Stephanopyxis_turris__515487	0	0.748697	0	0.409335	0	0	0.11598	0.0326402	0	0	0	0	0	0.281598
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Striatella.s__Striatella_unipunctata__210618	1.33697	0	0	1.08448	5.92698	3.02865	2.12809	1.8713	0	0	0	0	7.40203	0.560714
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Strombidium.s__Strombidium_rassoulzadegani__1082188	4.8464	2.45101	2.11988	5.62884	17.7343	8.66667	5.2019	18.6462	21.1063	2.45009	23.6432	56.7063	9.83878	1.68009
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Stygamoeba.s__Stygamoeba_regulata__1042828	0	0	0	0.836956	0	0	0	0	0	0	0	0	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Symbiodinium.s__Symbiodinium_sp._clade_A__1563115	0	4.12773	0	2.17356	0	0	0	8.50238	0	0.448325	0	0	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Tetraselmis.s__Tetraselmis_astigmatica__1074897	3.06486	0.376905	0	0.480607	4.8101	0	0	0	0	0.977877	0	3.15325	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Thalassionema.s__Thalassionema_frauenfeldii__186022	0	0.461429	0	0.0331187	1.48942	0	0	0.348446	0	0	0	0	1.55722	0.316155
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Thalassiosira.s__Thalassiosira_antarctica__160265	0	0	0	0	0	0	0	0	0	0	0	0	0	0.75748
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Thalassiosira.s__Thalassiosira_oceanica__159749	0	0.624063	0	0	7.95429	0	0	6.50831	0	0	1.02296	0	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Thalassiosira.s__Thalassiosira_punctigera__265564	0	0.205748	0	0	0	0	1.18204	0.032859	0	0	0	0	0	0.252986
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Thalassiothrix.s__Thalassiothrix_antarctica__1049557	0	0.0807506	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Thalassospira.s__Thalassospira_sp.__1912094	0	5.33678	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Thraustochytrium.s__Thraustochytrium_sp.__145168	0	0	0	0	0	0	0	0	0	0	0	4.83843	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Tigriopus.s__Tigriopus_kingsejongensis__1133412	7.80398	19.5711	0	6.2746	0	12.7571	12.9378	23.899	0	2.51915	1.43315	0	0	0.98513
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Togula.s__Togula_jolla__285029	5.20951	3.14673	16.3416	4.3726	10.5025	0	0	14.0878	0	0.751235	1.78546	0	0	2.94674
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Trieres.s__Trieres_chinensis__1514140	0	0.243183	0	0.384183	0	0	1.22503	0.5178	0	0	0	0	0	0.179069
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Tryblionella.s__Tryblionella_compressa__913974	0.195041	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Vaucheria.s__Vaucheria_litorea__109269	0	0	0	0	0	0	0	0	0	0	0	1.02236	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Verruconis.s__Verruconis_gallopava__253628	0	0	0	0	0	0	0	7.91997	0	0	0	0	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__unclassified.s__unclassified__200605	11.0989	8.85305	10.6953	2.37473	0	20.4494	10.7933	13.625	2.01445	1.1371	6.16643	59.9063	20.4757	8.75717
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__unclassified.s__unclassified__41302	29.9448	0	0	0	0	0	0	0	15.6034	1.45931	0	0	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__unclassified.s__unclassified__98651	1.77053	2.78926	0	1.26272	0	0	0	0	0	0	0	0	0	0.325681
+PWY-7221: guanosine ribonucleotides de novo biosynthesis	81.0021	120.363	56.2071	86.0856	252.224	239.226	89.5619	140.606	131.077	60.2315	140.547	43.0806	116.36	37.1472
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Owenweeksia.s__Owenweeksia_sp._TMED14__1986609	0	0	0	0	0	0	0	0	0	2.15722	0	0	0	0
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Polaribacter.s__uncultured_Polaribacter_sp.__174711	0	8.73717	0	5.15867	0	0	0	0	0	0	8.81616	0	0	0
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Synechococcus.s__Synechococcus_sp_BL107	0	7.62667	0	10.6873	0	0	0	6.7401	0	5.09585	13.1551	0	0	0
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Synechococcus.s__Synechococcus_sp_CC9902	18.3508	9.70804	0	12.3115	63.1753	0	0	26.8397	24.9814	7.09556	15.7627	0	0	4.34895
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II	1723.75	1577.31	2104.34	827.12	3837.67	2006.41	977.571	2509.35	1504.04	320.966	1271.45	4383.27	6193.03	659.817
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Aequorivita.s__Aequorivita_sp._HC6-5__1156267	29.6855	15.9046	0	17.7245	57.2697	0	14.1883	37.1103	0	11.2337	19.6333	70.666	109.323	8.03276
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Ammonia.s__Ammonia_sp.__43993	0	5.40209	0	0.9033	65.3586	0	5.74003	0	0	0	0	0	0	2.53327
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Amphidinium.s__Amphidinium_carterae__2961	5.19486	5.67704	5.37379	2.32295	14.7992	0	0	9.99493	0	0.552053	4.34199	0	0	4.01764
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Amphidinium.s__Amphidinium_massartii__160604	6.39107	3.14692	10.6155	4.20188	7.46192	0	0	13.274	0	0.193563	4.96557	0	0	4.10814
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Amphiprora.s__Amphiprora_paludosa__265537	0.126189	1.27361	0	0	0	0	0	0	0	0	0	0	0	0.0148964
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Amphiprora.s__Amphiprora_sp.__2608610	0	0.123379	0	0.199769	0.897572	0	0	1.02406	0	0.0395722	0	0	4.4605	0.00353863
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Amphora.s__Amphora_coffeiformis__265554	0	0	0	0	0	0	0	5.63935	0	0	0	0	0	0.185375
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Aristerostoma.s__Aristerostoma_sp.__2710916	0	0	0	0.409614	0	0	0	0	0	0	0	0	0	0.0788659
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Asterionella.s__Asterionella_formosa__210441	0	0.0790535	0	0.0101196	0	0	0	0	0	0	0	0	0	0.0568962
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Asterionellopsis.s__Asterionellopsis_glacialis__33640	0	0.478037	0	0.14237	0	0	1.00125	0.0305867	0	0	0	0	0	0.142988
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Astrosyne.s__Astrosyne_radiata__1158023	0	1.33544	0	0	0	0	0	0.964232	0	0.30708	0	0	0	0.0156994
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Attheya.s__Attheya_septentrionalis__420275	0	0.472139	0	0.254599	0	0	0.337696	0	0	0	0	0	0	0.157178
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Aulacoseira.s__Aulacoseira_subarctica__202472	0.305535	0.287628	0	0.0217937	0.124475	0	0	0.334452	0	0	0	0	0	0.238729
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bathycoccus.s__Bathycoccus_prasinos__41875	1.16683	0	0	0.818476	26.1249	25.8104	5.42794	5.10091	8.71004	4.13732	9.07233	51.1221	69.4672	0.505932
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bathycoccus.s__unclassified__41874	1.55671	0	0	1.02859	50.2849	23.8289	1.52193	16.2296	8.30515	5.9532	7.25967	70.608	72.0796	0.160917
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Calcidiscus.s__Calcidiscus_leptoporus__127549	0	1.01652	0	0.5453	2.62558	0	0	0	0.73336	0	0	0	5.2398	0.180077
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Chaetoceros.s__Chaetoceros_cf._neogracilis__1048532	0	0.00716839	0	0	0	0	0	0	0	0	0	0	0	0.0299064
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Chaetoceros.s__Chaetoceros_debilis__122233	0	0.0072619	0	0	0	0	1.21982	1.47493	0	0	0	0	0	0.133332
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Chaetoceros.s__Chaetoceros_dichaeta__420782	0	1.42591	0	0.425681	0	0	1.80941	2.56348	0	0.598566	0	0	0	0.162988
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Chattonella.s__Chattonella_subsalsa__44440	1.68592	4.45392	0	1.28449	3.79931	0	0	1.48497	0	0	0	3.94261	24.7514	0.911084
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Chlorarachnion.s__Chlorarachnion_reptans__29199	2.91256	0.908284	0	0.843362	0	0	0	0	0	0	2.51321	16.6123	29.8793	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Chrysochromulina.s__Chrysochromulina_rotalis__412157	0	4.59891	0	2.58468	0	0	2.34053	0	0	0	0	0	0	1.90164
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Chrysochromulina.s__Chrysochromulina_tobinii__1460289	0	0.538865	0	0.122954	0	0	0	0	0	0	0	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Chrysoculter.s__Chrysoculter_rhomboideus__259385	0	0.438699	0	0.17854	0	0	0	0	0	0	0	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Coremiostelium.s__Coremiostelium_polycephalum__142831	0	0	0	0	0	0	0	0	0	0	4.62759	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Corethron.s__Corethron_hystrix__216773	0	0.445401	0	0	0	0	0	0.884019	0	0	0	0	1.1297	0.100741
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Coscinodiscus.s__Coscinodiscus_wailesii__671091	0	0.48537	0	0.100275	1.58475	0	0	0.0935945	0	0.071003	0	0	0	0.017363
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Craspedostauros.s__Craspedostauros_australis__1486917	0.652933	1.04165	0	0	0	5.07296	0	0	0	0	0	0	13.8681	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Crustomastix.s__Crustomastix_stigmatica__195967	0.100733	0.0237345	0	0.304318	0	0	0	0.0210818	0	0	0	0	0	0.057096
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Cryptomonas.s__Cryptomonas_curvata__233186	0	0	0	0	0	4.57206	0	0	0	0	0	0	0	0.123875
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Cylindrotheca.s__Cylindrotheca_closterium__2856	1.89144	0	0	0	0	1.31043	0	0.032651	0	0	0	0	8.81998	0.232352
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Dactyliosolen.s__Dactyliosolen_fragilissimus__1118495	0	0.417086	0	0.51875	0	0	0.771077	0.507696	0	0	0	0	0	0.100298
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Detonula.s__Detonula_confervacea__83371	0	0.0806673	0	0	1.01623	0	0	0.0408536	0	0	0.624116	0	0	0.0302986
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Durinskia.s__Durinskia_baltica__400756	4.1615	3.43468	1.23136	2.69954	7.66836	1.42881	1.74984	5.46767	2.24906	0	3.03065	18.7451	20.778	2.52557
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Entomoneis.s__Entomoneis_sp.__186043	0	0.874424	0	0.0852724	0	0	0	0.529991	0	0	0	0	9.40452	0.00517946
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Epipyxis.s__Epipyxis_sp._PR26KG__1825121	0	0.46723	0	0.221608	0.120924	0	0	1.50254	0	0	0	0	0	0.0510237
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Eucampia.s__Eucampia_antarctica__49252	0	0.412256	0	0.422306	0	0	0	2.65769	0	0.305573	0	0	0	0.599076
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Euplotes.s__Euplotes_harpa__151035	0	0	0	0	0	0	0	0	0	0	0	0	0	0.322953
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Exanthemachrysis.s__Exanthemachrysis_gayraliae__119497	0	0	0	0	0	0	2.75757	0	0	0	0	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Extubocellulus.s__Extubocellulus_spinifer__265572	0	0.456795	0	0.428984	0	0	1.59274	0	0	0	0	0	0	0.381955
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Fibrocapsa.s__Fibrocapsa_japonica__94617	0.276194	0.648047	0	0.5867	0	0	0	0	0	0	0	0	0	0.0619648
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Geminigera.s__Geminigera_cryophila__46947	30.1121	18.2756	22.6111	2.22878	1.11982	19.8703	0	0	50.1849	3.65802	16.821	0	0	5.71583
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Geminigera.s__unclassified__46946	3.06954	1.33436	0	0.72728	0	0	0	0	3.23283	0.141225	2.81491	16.7425	0	0.461632
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Grammatophora.s__Grammatophora_oceanica__210454	0.0313412	1.27067	0	0.227135	1.65632	1.03205	0	2.93288	0	0.105423	0	0	25.1275	0.0874024
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Gymnodinium.s__Gymnodinium_catenatum__39447	7.40009	6.7663	7.83149	2.74982	31.0577	0	0	6.87277	0	0.715724	7.85148	0	0	3.97293
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Haptolina.s__Haptolina_brevifila__156173	3.71983	2.1318	0	1.72467	2.59298	0	0	0	2.81821	0	4.26438	2.64459	5.99917	1.93705
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Hemiselmis.s__Hemiselmis_rufescens__77926	2.01744	1.6399	0	0.178565	0	0	0	0	0	0	0	0	0	0.00850732
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Hydrurus.s__Hydrurus_foetidus__2996	0	0	0	0	0	0	0	0	0	0	8.62723	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Kryptoperidinium.s__Kryptoperidinium_foliaceum__160619	7.14976	13.7414	16.2811	0.811526	0	1.28442	10.8871	3.20279	3.6321	0.706529	6.36446	20.1217	13.2043	1.25473
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Licmophora.s__Licmophora_paradoxa__515479	0	0.0384455	0	0.0765062	0.174869	0	0	1.13779	0	0.0497546	0	0	0	0.065871
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Mallomonas.s__Mallomonas_sp.__2003107	0	0	0	0	0	0	0	0	0	0	0	0	0	0.418683
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Micromonas.s__Micromonas_pusilla__38833	0	0	0	0.533092	0	0	0	0	0	0	0	0	0	0.219587
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Micromonas.s__unclassified__38832	0.94509	0.937839	0	1.01438	0	0	0	3.83582	5.37904	0.859082	1.58766	27.3085	27.9767	0.423371
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Minutocellus.s__Minutocellus_polymorphus__265543	0	0.368573	0	0.564146	0	0	0.0438512	0.341483	0	0	0	0	0	0.664534
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Noctiluca.s__Noctiluca_scintillans__2966	17.6817	13.159	21.8045	5.7941	45.9146	0	0	20.4799	0	1.95701	14.0411	0	0	6.15139
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Ostreococcus.s__Ostreococcus_sp._'lucimarinus'__242159	5.21725	6.4834	11.4376	2.09412	95.9787	36.0042	3.84107	161.118	32.2325	12.7337	3.99304	36.473	345.683	0.26196
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Paraphysomonas.s__Paraphysomonas_bandaiensis__89770	17.9314	13.8373	0	18.7224	0	0	0	63.307	0	8.65046	23.2591	15.9278	0	6.82176
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Pelagococcus.s__Pelagococcus_subviridis__35679	0	0	7.23414	0	0	0	0	0	10.7476	2.43434	7.87005	0	0	3.50654
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Platyophrya.s__Platyophrya_macrostoma__938130	0	0	0	0	0	0	0	0	0	0	0	0	0	0.588406
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Prymnesium.s__Prymnesium_polylepis__72548	0	0.992444	0	0.583496	0	0	0	0	0	0	0	0	0	0.695554
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Pseudictyota.s__Pseudictyota_dubia__2749911	0	0.806085	0	0.134647	0	0	1.20367	0.0379726	0	0	0	0	0	0.204174
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Pseudokeronopsis.s__Pseudokeronopsis_sp.__1634380	2.71313	5.14481	0	3.9005	20.3481	4.99776	0	6.17116	4.94673	0.938798	6.45704	0	10.4827	1.6101
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Pseudomonas.s__Pseudomonas_aeruginosa__287	0	5.3373	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Rhodobacterales_unclassified.s__Rhodobacterales_bacterium_HTCC2255	0	0	0	0	0	0	0	0	0	0	7.0449	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Rhodomonas.s__Rhodomonas_abbreviata__46948	0	0	0	0	0	0	0	0	0	0	0	0	0	0.293367
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Rhodomonas.s__Rhodomonas_lens__354590	0	0	0	0	0	0	0	0	0	0	0	0	0	0.955221
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Schmidingerella.s__Schmidingerella_taraikaensis__626734	11.172	8.97396	10.5691	2.70262	0	26.0257	16.6589	0	4.20606	5.53995	19.0785	30.6918	48.0931	11.3458
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Scyphosphaera.s__Scyphosphaera_apsteinii__418940	0	2.10249	0	1.13302	0	0	0	0	0	0	0	0	0	0.821552
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Shewanella.s__Shewanella_frigidimarina__56812	0	2.18325	0	0.176863	0	0	0	0	0	0	0	0	0	0.530271
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Sorites.s__Sorites_sp.__126664	0	4.03528	0.844782	0.121141	3.93506	0	1.73042	0	0	0.0674033	0.718966	5.75058	0	0.136817
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Stephanopyxis.s__Stephanopyxis_turris__515487	0	0.748697	0	0.409335	0	0	0.11598	0.0326402	0	0	0	0	0	0.281598
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Striatella.s__Striatella_unipunctata__210618	1.33697	0	0	1.08448	5.92698	3.02865	2.12809	1.8713	0	0	0	0	7.40203	0.560714
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Strombidium.s__Strombidium_rassoulzadegani__1082188	4.8464	2.45101	2.11988	5.62884	17.7343	8.66667	5.2019	18.6462	21.1063	2.45009	23.6432	56.7063	9.83878	1.68009
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Stygamoeba.s__Stygamoeba_regulata__1042828	0	0	0	0.836956	0	0	0	0	0	0	0	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Symbiodinium.s__Symbiodinium_sp._clade_A__1563115	0	4.12773	0	2.17356	0	0	0	8.50238	0	0.448325	0	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Tetraselmis.s__Tetraselmis_astigmatica__1074897	3.06486	0.376905	0	0.480607	4.8101	0	0	0	0	0.977877	0	3.15325	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Thalassionema.s__Thalassionema_frauenfeldii__186022	0	0.461429	0	0.0331187	1.48942	0	0	0.348446	0	0	0	0	1.55722	0.316155
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Thalassiosira.s__Thalassiosira_antarctica__160265	0	0	0	0	0	0	0	0	0	0	0	0	0	0.75748
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Thalassiosira.s__Thalassiosira_oceanica__159749	0	0.624063	0	0	7.95429	0	0	6.50831	0	0	1.02296	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Thalassiosira.s__Thalassiosira_punctigera__265564	0	0.205748	0	0	0	0	1.18204	0.032859	0	0	0	0	0	0.252986
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Thalassiothrix.s__Thalassiothrix_antarctica__1049557	0	0.0807506	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Thalassospira.s__Thalassospira_sp.__1912094	0	5.33678	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Thraustochytrium.s__Thraustochytrium_sp.__145168	0	0	0	0	0	0	0	0	0	0	0	4.83843	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Tigriopus.s__Tigriopus_kingsejongensis__1133412	7.80398	19.5711	0	6.2746	0	12.7571	12.9378	23.899	0	2.51915	1.43315	0	0	0.98513
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Togula.s__Togula_jolla__285029	5.20951	3.14673	16.3416	4.3726	10.5025	0	0	14.0878	0	0.751235	1.78546	0	0	2.94674
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Trieres.s__Trieres_chinensis__1514140	0	0.243183	0	0.384183	0	0	1.22503	0.5178	0	0	0	0	0	0.179069
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Tryblionella.s__Tryblionella_compressa__913974	0.195041	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Vaucheria.s__Vaucheria_litorea__109269	0	0	0	0	0	0	0	0	0	0	0	1.02236	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Verruconis.s__Verruconis_gallopava__253628	0	0	0	0	0	0	0	7.91997	0	0	0	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__unclassified.s__unclassified__200605	11.0989	8.85305	10.6953	2.37473	0	20.4494	10.7933	13.625	2.01445	1.1371	6.16643	59.9063	20.4757	8.75717
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__unclassified.s__unclassified__41302	29.9448	0	0	0	0	0	0	0	15.6034	1.45931	0	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__unclassified.s__unclassified__98651	1.77053	2.78926	0	1.26272	0	0	0	0	0	0	0	0	0	0.325681
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I	118.834	174.267	83.3407	122.8	366.92	339.873	129.2	205.456	188.944	82.9052	199.995	64.3197	172.917	54.2386
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Polaribacter.s__uncultured_Polaribacter_sp.__174711	0	0	0	0	0	0	0	0	0	0	7.82552	0	0	0
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Synechococcus.s__Synechococcus_sp_BL107	0	6.05822	0	10.5256	0	0	0	0	0	3.93318	8.77514	0	0	0
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Synechococcus.s__Synechococcus_sp_CC9902	14.8805	7.59723	0	8.88702	0	0	0	0	0	7.06222	14.7659	0	0	3.8129
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I	103.023	182.601	185.942	135.996	442.601	136.924	108.17	278.532	100.248	37.031	99.2764	106.847	337.695	92.1014
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Durinskia.s__Durinskia_baltica__400756	0.657839	2.85368	0	0.890144	0	0	0.522093	0	0	0	0	0	3.96839	0.305905
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Kryptoperidinium.s__Kryptoperidinium_foliaceum__160619	0	0	0	0	0	0	0	0	0	0	0	0	0	0.714004
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Togula.s__Togula_jolla__285029	0	0	0	0	0	0	0	0	0	0	0	0	0	0.658919
+PWY-7234: inosine-5'-phosphate biosynthesis III	12.899	43.8079	0	44.2178	107.669	41.4878	28.8279	70.2104	40.7764	22.369	60.4852	0	0	16.2215
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Synechococcus.s__Synechococcus_sp_BL107	0	3.74806	0	3.37291	0	0	0	0	0	1.96762	0	0	0	0
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Synechococcus.s__Synechococcus_sp_CC9902	0	6.14482	0	5.39953	0	0	0	0	0	3.79799	0	0	0	0
+PWY-7238: sucrose biosynthesis II	12.2652	21.9824	0	21.6886	0	0	0	39.0767	0	17.7076	19.6153	0	0	6.82121
+PWY-7238: sucrose biosynthesis II|g__Bathycoccus.s__unclassified__41874	0	0	0	0.232335	0	0	0	0	0	0	0	0	0	0
+PWY-7238: sucrose biosynthesis II|g__Micromonas.s__unclassified__38832	1.92639	0.895359	0	0.975857	0	0	0	0	0	0	0	0	0	0.887422
+PWY-7238: sucrose biosynthesis II|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	1.71094	0	0	0	0	0	2.9378	0	0	0	0
+PWY-7238: sucrose biosynthesis II|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	0	0	0	0	0	0	7.36444	8.48174	0	0	0
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II	0	36.3274	0	29.5375	84.9717	0	0	71.0905	0	16.0746	36.0922	0	0	10.2001
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	4.60048	0	0	0	4.89319	0	2.33279	6.94972	0	0	0
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	5.44306	0	0	0	0	0	2.66764	6.15278	0	0	0
+PWY-7323: superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis	0	29.3044	0	0	0	0	0	45.2216	0	0	20.0414	0	0	5.56876
+PWY-7345: superpathway of anaerobic sucrose degradation	41.5747	44.3324	0	17.5448	0	0	0	55.4739	0	7.96277	35.7468	0	0	12.8433
+PWY-7347: sucrose biosynthesis III	0	0	0	5.25303	221.274	0	0	105.022	0	6.48082	13.6442	0	118.884	0
+PWY-7392: taxadiene biosynthesis (engineered)	0	2.81681	0	0	0	0	0	0	0	0	4.4472	0	0	5.86167
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)	16.5948	34.7254	0	28.1566	90.8075	0	0	75.802	28.8977	15.8223	34.7241	0	0	16.6519
+PWY-7560: methylerythritol phosphate pathway II	0	52.4046	0	33.6366	0	0	0	88.6306	0	8.84573	33.0934	0	0	14.0381
+PWY-7560: methylerythritol phosphate pathway II|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	6.37168	0	0	0	11.4982	0	0	6.41742	0	0	0
+PWY-7560: methylerythritol phosphate pathway II|g__Synechococcus.s__Synechococcus_sp_CC9902	0	7.89251	0	5.87717	0	0	0	0	0	0	10.4858	0	0	0
+PWY-7663: gondoate biosynthesis (anaerobic)	80.2944	78.4425	28.4873	15.5734	178.221	35.7258	44.4791	119.773	19.0642	12.4363	58.1653	65.5427	88.3371	31.8905
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Prochlorococcus.s__Prochlorococcus_sp_MIT_0801	0	0	0	0	0	0	0	0	0	0	0	0	0	3.30845
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Pseudopedinella.s__Pseudopedinella_elastica__35684	0	1.59733	0	0	0	0	0	0	0	0	0	0	0	0.367907
+PWY-7664: oleate biosynthesis IV (anaerobic)	29.999	25.5833	0	0	0	0	0	90.2414	0	0	0	0	0	20.2616
+PWY-7688: dTDP-&alpha;-D-ravidosamine and dTDP-4-acetyl-&alpha;-D-ravidosamine biosynthesis	0	0	0	0	0	0	0	0	0	0	11.4843	0	0	0
+PWY-7790: UMP biosynthesis II	16.4764	20.6476	0	25.9408	0	35.8261	15.6741	0	15.5091	14.4856	26.544	0	0	4.60533
+PWY-7790: UMP biosynthesis II|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	0	0	0	0	0	0	0	5.44823	0	0	0
+PWY-7790: UMP biosynthesis II|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	0	0	0	0	0	0	0	7.26121	0	0	0
+PWY-7791: UMP biosynthesis III	16.4764	20.6476	0	25.9408	0	35.8261	15.6741	0	15.5091	14.4856	26.544	0	0	4.13144
+PWY-7791: UMP biosynthesis III|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	0	0	0	0	0	0	0	5.44823	0	0	0
+PWY-7791: UMP biosynthesis III|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	0	0	0	0	0	0	0	7.26121	0	0	0
+PWY-7851: coenzyme A biosynthesis II (eukaryotic)	0	0	0	10.5343	0	0	0	0	0	4.92493	0	0	0	0
+PWY-7858: (5Z)-dodecenoate biosynthesis II	21.5749	17.7979	0	0	0	0	0	68.4167	0	0	0	0	0	15.2347
+PWY-7902: glucosylglycerol biosynthesis	9.58085	16.6476	0	9.28652	61.9209	0	0	88.3734	0	5.19294	10.7914	0	0	0
+PWY-7902: glucosylglycerol biosynthesis|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	0	0	0	0	29.8151	0	0	0	0	0	0
+PWY-7942: 5-oxo-L-proline metabolism	0	5.14286	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7953: UDP-N-acetylmuramoyl-pentapeptide biosynthesis III (meso-diaminopimelate containing)	0	13.5304	0	6.98655	0	0	0	0	0	5.36348	14.8887	0	0	2.01721
+PWY-7977: L-methionine biosynthesis IV	0	24.4112	0	9.24783	0	0	0	38.7918	0	10.1152	29.3073	0	0	1.15477
+PWY-7977: L-methionine biosynthesis IV|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	3.36729	0	0	0	0	0	1.91302	3.26634	0	0	0
+PWY-7977: L-methionine biosynthesis IV|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	3.78698	0	0	0	0	0	2.9795	3.79502	0	0	0
+PWY-8004: Entner-Doudoroff pathway I	0	27.7194	0	19.002	0	112.588	0	39.2305	47.1159	12.4315	21.6828	0	0	7.48899
+PWY-8011: L-serine biosynthesis II	0	0	0	3.38648	0	61.2745	22.744	0	0	6.00593	0	0	67.9841	1.94758
+PWY-801: homocysteine and cysteine interconversion	0	11.6733	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-8073: lipid IVA biosynthesis (P. putida)	0	7.42208	0	0	0	0	0	0	0	0	8.38613	0	0	0
+PWY-8178: pentose phosphate pathway (non-oxidative branch) II	153.453	235.588	202.489	107.148	638.165	209.147	156.47	616.952	82.7963	25.8915	113.819	92.2447	410.311	63.7011
+PWY-8178: pentose phosphate pathway (non-oxidative branch) II|g__Apocalathium.s__Apocalathium_aciculiferum__268820	0	0	0	0	0	0	0	0	0	0	0	0	0	0.908305
+PWY-8178: pentose phosphate pathway (non-oxidative branch) II|g__Prymnesium.s__Prymnesium_polylepis__72548	0	0.681798	0	0	0	0	0	1.15828	0	0	0	0	0	0
+PWY-8178: pentose phosphate pathway (non-oxidative branch) II|g__Scyphosphaera.s__Scyphosphaera_apsteinii__418940	0	0	0	0	0	0	0	3.18804	0	0	1.10677	0	0	0
+PWY-8178: pentose phosphate pathway (non-oxidative branch) II|g__Synechococcus.s__Synechococcus_sp_BL107	0	21.3303	0	11.9387	0	0	0	75.5727	0	3.33164	0	0	0	0
+PWY-8178: pentose phosphate pathway (non-oxidative branch) II|g__Synechococcus.s__Synechococcus_sp_CC9902	28.0537	32.6724	0	12.6255	133.815	0	22.1468	98.6683	18.9462	2.93049	0	0	0	5.51451
+PWY-8187: L-arginine degradation XIII (reductive Stickland reaction)	65.8547	106.629	53.8019	38.4336	256.775	151.398	61.6641	123.36	94.0675	16.4239	87.15	172.953	238.48	48.9971
+PWY-8187: L-arginine degradation XIII (reductive Stickland reaction)|g__Karenia.s__Karenia_brevis__156230	0	2.47024	0	1.11782	0	0	0	4.10973	0	0	0	0	0	1.8172
+PWY-821: superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	0	0	0	0	0	0	0	0	0	0	0	0	0	7.2891
+PWY-841: superpathway of purine nucleotides de novo biosynthesis I	0	63.1833	0	47.809	0	0	0	75.5535	30.9261	22.5044	72.4633	0	0	0
+PWY-922: mevalonate pathway I (eukaryotes and bacteria)	0	11.9013	0	0	0	0	0	0	0	0	0	0	0	2.92763
+PWY-I9: L-cysteine biosynthesis VI (from L-methionine)	0	25.3154	0	13.4122	0	0	0	0	18.5641	0	0	0	0	4.35423
+PWY0-1296: purine ribonucleosides degradation	0	0	0	0	0	0	0	0	0	0	0	0	48.7467	0
+PWY0-1319: CDP-diacylglycerol biosynthesis II	0	24.1121	47.2288	10.7695	0	0	59.3893	0	0	0	11.1999	0	0	8.24057
+PWY0-1479: tRNA processing	0	0	0	15.522	0	0	0	0	0	0	0	0	0	0
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)	0	6.58461	0	0	0	0	0	21.6815	0	0	9.24537	0	0	0
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Pseudomonas.s__Pseudomonas_sp._SDM007_2__2812898	0	3.9957	0	0	0	0	0	0	0	0	0	0	0	0
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis	43.59	66.213	0	36.7286	71.2605	53.8285	28.2704	0	25.4178	18.0651	43.1451	0	0	16.1131
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	0	0	0	0	0	0	0	7.22067	0	0	0
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	0	0	0	0	0	0	0	9.58544	0	0	0
+PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)	0	19.6501	0	22.2312	135.823	0	0	62.7634	0	18.1627	44.3335	0	0	5.79277
+PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0	5.65062	0	0	0	0	0	0	0	0	0	0	0	0
+PWY0-862: (5Z)-dodecenoate biosynthesis I	81.4818	78.1295	25.3389	20.0978	194.347	0	40.9527	107.602	20.8652	14.9098	62.2812	74.9846	0	21.4075
+PWY1ZNC-1: assimilatory sulfate reduction IV	22.2493	65.2881	0	48.0966	195.775	77.6996	30.6744	102.488	45.8026	21.6846	83.8311	0	89.8972	18.7641
+PWY1ZNC-1: assimilatory sulfate reduction IV|g__Synechococcus.s__Synechococcus_sp_BL107	0	10.7933	0	8.57414	0	0	0	30.2375	0	3.37997	5.71905	0	0	0
+PWY1ZNC-1: assimilatory sulfate reduction IV|g__Synechococcus.s__Synechococcus_sp_CC9902	13.4433	13.8075	0	6.80177	81.2198	0	12.4009	21.3675	0	3.1016	7.4342	0	0	3.53944
+PWY4FS-7: phosphatidylglycerol biosynthesis I (plastidic)	0	14.3959	0	3.26413	0	0	0	0	0	0	3.02759	0	0	0
+PWY4FS-8: phosphatidylglycerol biosynthesis II (non-plastidic)	0	14.3959	0	3.26413	0	0	0	0	0	0	3.02759	0	0	0
+PWY66-389: phytol degradation	0	14.2813	0	0	0	0	0	0	0	0	0	0	0	6.77702
+PWY66-409: superpathway of purine nucleotide salvage	0	30.916	0	0	0	0	0	0	0	0	0	0	0	0
+PWY66-429: fatty acid biosynthesis initiation (mitochondria)	106.381	120.936	0	75.7691	0	55.8629	33.7893	208.343	0	26.0377	84.3338	0	134.895	30.7869
+PWY66-429: fatty acid biosynthesis initiation (mitochondria)|g__Formosa.s__Formosa_sp.__2018467	0	13.2661	0	11.0918	0	0	0	0	0	5.19841	16.0012	0	0	0
+PWY66-429: fatty acid biosynthesis initiation (mitochondria)|g__Synechococcus.s__Synechococcus_sp_BL107	0	9.31189	0	7.87341	0	0	0	21.2308	0	2.88397	6.03017	0	0	0
+PWY66-429: fatty acid biosynthesis initiation (mitochondria)|g__Synechococcus.s__Synechococcus_sp_CC9902	0	18.5473	0	10.2716	0	0	0	51.1314	0	4.59081	14.0012	0	0	4.25548
+PYRIDNUCSYN-PWY: NAD de novo biosynthesis I (from aspartate)	16.8216	20.129	0	13.9048	0	0	0	38.7523	0	5.43301	20.8269	0	0	0
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I	0	9.63608	0	0	0	0	0	0	0	0	0	0	0	0
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)	0	25.5052	0	13.604	0	0	0	52.554	0	5.6763	32.4928	0	0	8.54592
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I	24.0271	43.0584	0	2.26342	0	0	0	35.582	0	7.01179	10.4197	32.4853	0	11.1156
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Kryptoperidinium.s__Kryptoperidinium_foliaceum__160619	0	0.537614	0	0	0	0	0	0	0	0	0	0	0	0
+SO4ASSIM-PWY: assimilatory sulfate reduction I	22.2493	65.2881	0	48.0966	195.775	0	30.6744	102.488	36.4395	19.9965	83.8311	0	0	18.7641
+SO4ASSIM-PWY: assimilatory sulfate reduction I|g__Synechococcus.s__Synechococcus_sp_BL107	0	10.7933	0	8.07311	0	0	0	30.2375	0	3.27294	0	0	0	0
+SO4ASSIM-PWY: assimilatory sulfate reduction I|g__Synechococcus.s__Synechococcus_sp_CC9902	13.4433	13.8075	0	5.19361	81.2198	0	12.4009	21.3675	0	2.64812	0	0	0	3.53944
+SUCSYN-PWY: sucrose biosynthesis I (from photosynthesis)	0	0	0	13.9171	452.731	0	0	247.396	0	13.5543	29.7443	0	261.921	0
+SULFATE-CYS-PWY: superpathway of sulfate assimilation and cysteine biosynthesis	0	0	0	0	0	0	0	0	0	0	0	0	0	4.77727
+TCA-GLYOX-BYPASS: superpathway of glyoxylate bypass and TCA	0	47.7549	0	22.7483	0	0	0	0	0	7.08963	37.8202	0	0	11.8402
+TCA: TCA cycle I (prokaryotic)	0	55.2605	0	26.1753	0	0	0	0	0	15.336	42.8841	0	0	19.4822
+THRESYN-PWY: superpathway of L-threonine biosynthesis	0	53.2777	0	37.8078	166.715	79.4891	22.4333	83.9925	42.8514	22.3389	63.6218	0	0	18.5611
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Synechococcus.s__Synechococcus_sp_BL107	0	0	0	3.17155	0	0	0	0	0	2.69515	4.07513	0	0	0
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Synechococcus.s__Synechococcus_sp_CC9902	0	0	0	4.7385	0	0	0	0	0	3.63277	5.19018	0	0	0
+TRNA-CHARGING-PWY: tRNA charging	6.8071	33.4324	0	28.9077	0	0	0	0	0	13.4204	35.3362	0	0	8.06431
+UDPNACETYLGALSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis II	0	0	0	4.72416	0	0	0	0	0	0	3.15789	0	0	0
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I	15.8797	38.6419	0	17.0229	68.7093	0	0	110.194	15.654	6.37785	23.9527	0	74.8689	8.43938
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Synechococcus.s__Synechococcus_sp._BS30m-G30__2781771	0	3.89439	0	2.53691	0	0	0	18.5179	0	0	0	0	0	1.55732
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Synechococcus.s__Synechococcus_sp._BS30m-G31__2781772	0	0	0	2.98777	0	0	0	0	0	0	0	0	0	0
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Synechococcus.s__Synechococcus_sp_BL107	0	4.66808	0	2.41093	0	0	0	16.1385	0	0	0	0	0	0
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Synechococcus.s__Synechococcus_sp_CC9902	0	5.75692	0	3.55902	0	0	0	21.73	11.8481	0	0	0	0	0
+VALSYN-PWY: L-valine biosynthesis	194.535	227.459	85.261	154.156	357.472	159.567	206.642	296.821	130.463	48.2366	166.486	176.225	200.36	103.697
+VALSYN-PWY: L-valine biosynthesis|g__Planktomarina.s__Planktomarina_temperata__1284658	0	6.74523	0	0	0	0	0	0	0	0	0	0	0	2.17109
+VALSYN-PWY: L-valine biosynthesis|g__Prochlorococcus.s__Prochlorococcus_sp_MIT_0801	0	0	0	0	0	0	0	0	0	0	0	0	0	3.7293
+VALSYN-PWY: L-valine biosynthesis|g__Rhodobacterales_unclassified.s__Rhodobacterales_bacterium_HTCC2255	0	0	0	2.9722	0	0	0	0	0	0	0	0	0	0
+VALSYN-PWY: L-valine biosynthesis|g__Synechococcus.s__Synechococcus_sp_BL107	0	14.9265	0	18.9674	0	0	0	20.9745	0	8.50559	27.6247	0	0	0
+VALSYN-PWY: L-valine biosynthesis|g__Synechococcus.s__Synechococcus_sp_CC9902	13.1631	9.63525	0	11.0085	64.3023	0	0	13.8446	26.4214	4.57224	13.2658	0	0	7.37044
