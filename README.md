@@ -24,7 +24,7 @@ Adequate trait parameterization of microbial community structure and biogeochemi
 #### /fastq_qc_humann_profiling 
   1. Scripts to conduct QC of (short) sequence reads using the [bbtools suite](https://jgi.doe.gov/data-and-tools/bbtools/).
   2. Scripts to conduct functional profiling of QC MTG/MTX datasets using humann3 (https://github.com/biobakery/humann).
-
+  3. To be able to run the Jupyter notebooks in this folder you have to fetch and extract the input data accessible via [this link](https://figshare.com/ndownloader/files/38264196).
 #### Protein database
 A plankton-specific database, with a format compatible with the profiling tool [HUMAnN](https://elifesciences.org/articles/65088) can be accessed [here](https://doi.org/10.14284/573): 
 
